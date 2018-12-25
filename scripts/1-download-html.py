@@ -1,4 +1,5 @@
 from urllib.request import urlopen
+from multiprocessing import Pool
 import datetime
 
 base_url = 'https://money.cnn.com/magazines/fortune/fortune500_archive/full/{}/{}.html'
@@ -25,6 +26,7 @@ def download_list(year):
 
 
 # Use the multiprocessing package to download each year's data in parallel
-for year in range(1955, 2006):
-    download_list(year)
+years = range(1955, 2006)
+p = Pool(len(years))
+p.map(download_list, years)
 
