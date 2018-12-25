@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions)
+1,General Motors,178174.0,6698.0
+2,Ford Motor,153627.0,6920.0
+3,Exxon Mobil,122379.0,8460.0
+4,Wal-Mart Stores,119299.0,3526.0
+5,General Electric,90840.0,8203.0
+6,Intl. Business Machines,78508.0,6093.0
+7,Chrysler,61147.0,2805.0
+8,Mobil,59978.0,3272.0
+9,Altria Group,56114.0,6310.0
+10,AT&T,53261.0,4638.0
+11,Boeing,45800.0,-178.0
+12,Texaco,45187.0,2664.0
+13,State Farm Insurance Cos,43957.0,3833.3
+14,Hewlett-Packard,42895.0,3119.0
+15,DuPont,41304.0,2405.0
+16,Sears Roebuck,41296.0,1188.0
+17,Citigroup,37609.0,3104.0
+18,Prudential Ins. Co. of America,37073.0,610.0
+19,ChevronTexaco,36376.0,3256.0
+20,Procter & Gamble,35764.0,3415.0
+21,Citicorp,34697.0,3591.0
+22,Amoco,32836.0,2720.0
+23,Kmart Holding,32183.0,249.0
+24,Merrill Lynch,31731.0,1906.0
+25,J.C. Penney,30546.0,566.0
+26,American Intl. Group,30519.5,3332.3
+27,Chase Manhattan Corp.,30381.0,3708.0
+28,Verizon Communications,30193.9,2454.9
+29,Motorola,29794.0,1180.0
+30,TIAA-CREF,29348.4,1226.6
+31,PepsiCo,29292.0,2142.0
+32,Lockheed Martin,28069.0,1300.0
+33,Fannie Mae,27776.9,3055.8
+34,Target,27757.0,751.0
+35,Morgan Stanley,27132.0,2586.0
+36,Kroger,26567.3,411.7
+37,Lucent Technologies,26360.0,541.0
+38,Intel,25070.0,6945.0
+39,Allstate,24949.0,3105.0
+40,SBC Communications,24856.0,1474.0
+41,United Technologies,24713.0,1072.0
+42,Compaq Computer,24584.0,1855.0
+43,MetLife,24374.0,1203.0
+44,Home Depot,24155.7,1160.0
+45,ConAgra Foods,24002.1,615.0
+46,Merck,23636.9,4614.1
+47,BankAmerica Corp.,23585.0,3210.0
+48,GTE,23260.0,2793.6
+49,Johnson & Johnson,22629.0,3303.0
+50,Safeway,22483.8,557.4
+51,Walt Disney,22473.0,1966.0
+52,United Parcel Service,22458.0,909.0
+53,Costco Wholesale,21874.4,312.2
+54,Bank of America Corp.,21734.0,3077.0
+55,Marathon Oil,21057.0,988.0
+56,BellSouth,20561.0,3261.0
+57,Enron,20273.0,105.0
+58,International Paper,20096.0,-151.0
+59,Cigna,20038.0,1086.0
+60,Dow Chemical,20018.0,1808.0
+61,Sara Lee,19734.0,1009.0
+62,MCI Communications,19653.0,2.0
+63,Loews,19647.8,793.6
+64,Atlantic Richfield,19272.0,1771.0
+65,American Stores,19138.9,280.6
+66,Caterpillar,18925.0,1665.0
+67,New York Life Insurance,18899.3,650.7
+68,Coca-Cola,18868.0,4129.0
+69,Columbia/HCA Healthcare,18819.0,-305.0
+70,AMR,18570.0,985.0
+71,Aetna,18540.2,901.1
+72,Xerox,18166.0,1452.0
+73,American Express,17760.0,1991.0
+74,J.P. Morgan,17701.0,1465.0
+75,UAL,17378.0,949.0
+76,Nabisco Group Holdings,17057.0,381.0
+77,Lehman Brothers Hldgs.,16883.0,647.0
+78,Bristol-Myers Squibb,16701.2,3204.7
+79,Ingram Micro,16581.5,193.6
+80,Supervalu,16551.9,175.0
+81,Duke Energy,16308.9,974.4
+82,Ameritech,15998.0,2296.0
+83,Federated Dept. Stores,15668.3,536.0
+84,ConocoPhillips,15424.0,959.0
+85,PG&E Corp.,15399.9,716.0
+86,Fleming,15372.7,25.4
+87,"MediaOne Group, Inc.",15352.0,697.0
+88,Electronic Data Systems,15235.6,730.6
+89,3M,15070.0,2121.0
+90,Sprint,14873.9,952.5
+91,Eastman Kodak,14713.0,5.0
+92,Albertson's,14689.5,516.8
+93,Honeywell Intl.,14472.0,1170.0
+94,Sysco,14454.6,302.5
+95,Freddie Mac,14399.0,1395.0
+96,Wachovia Corp.,14329.0,1896.0
+97,Massey Energy,14298.5,146.2
+98,Wyeth,14196.0,2043.1
+99,Archer Daniels Midland,13853.3,377.3
+100,Raytheon,13673.5,526.8
+101,Delta Air Lines,13590.0,854.0
+102,Ashland,13567.0,279.0
+103,Viacom,13504.5,793.6
+104,Alcoa,13481.7,805.1
+105,McKesson,13478.8,133.9
+106,Northwestern Mutual,13429.9,689.1
+107,Dynegy,13378.4,-102.5
+108,Walgreen,13363.0,436.0
+109,Hartford Financial Services,13305.0,1332.0
+110,Time Warner,13294.0,246.0
+111,Tosco,13281.6,212.7
+112,IBP,13258.8,117.0
+113,Bank One Corp.,13219.1,1305.7
+114,Winn-Dixie Stores,13218.7,204.4
+115,Goodyear Tire & Rubber,13155.1,558.7
+116,Georgia-Pacific,13094.0,69.0
+117,CVS,13086.5,37.7
+118,Digital Equipment,13046.8,140.9
+119,Deere,12791.4,960.1
+120,May Dept. Stores,12685.0,775.0
+121,Nationwide,12644.4,805.6
+122,Southern,12611.0,972.0
+123,Kimberly-Clark,12546.6,901.5
+124,Pfizer,12504.0,2213.0
+125,Dell,12327.0,944.0
+126,Emerson Electric,12298.6,1121.9
+127,Bankers Trust Corp.,12176.0,866.0
+128,Sodexho Marriott Services,12034.0,335.0
+129,Abbott Laboratories,11883.5,2094.5
+130,UnitedHealth Group,11794.0,460.0
+131,Rockwell Automation,11759.0,644.0
+132,Liberty Mutual Ins. Group,11670.0,521.0
+133,Bergen Brunswig,11660.5,81.7
+134,FedEx,11519.8,361.2
+135,McDonald's,11408.8,1642.5
+136,Johnson Controls,11387.4,288.5
+137,Microsoft,11358.0,3454.0
+138,Coca-Cola Enterprises,11278.0,171.0
+139,Publix Super Markets,11224.4,354.6
+140,Weyerhaeuser,11210.0,342.0
+141,Anheuser-Busch,11066.2,1179.2
+142,Occidental Petroleum,11061.0,-390.0
+143,Toys `R` Us,11037.8,490.1
+144,Union Pacific,11014.0,432.0
+145,Cardinal Health,10968.0,181.1
+146,TRW,10831.3,-48.5
+147,CSX,10621.0,799.0
+148,Texas Instruments,10562.0,1805.0
+149,Textron,10544.0,558.0
+150,Berkshire Hathaway,10430.0,1901.6
+151,AutoNation,10305.6,439.7
+152,Northwest Airlines,10225.8,596.5
+153,Lowe's,10136.9,357.5
+154,First Chicago NBD Corp.,10098.0,1525.0
+155,Gillette,10062.1,1427.2
+156,Bestfoods,9818.4,344.1
+157,Wells Fargo,9659.7,1351.0
+158,Coastal,9653.1,301.5
+159,CBS,9632.0,549.0
+160,Wells Fargo & Co.,9608.0,1155.0
+161,Entergy,9561.7,247.7
+162,Mass. Mutual Life Ins.,9551.2,351.8
+163,Monsanto,9457.0,470.0
+164,H.J. Heinz,9357.0,301.9
+165,Waste Management,9273.4,-1176.1
+166,Edison International,9235.1,700.0
+167,Limited Brands,9188.8,217.4
+168,Nike,9186.5,795.8
+169,Northrop Grumman,9153.0,407.0
+170,Farmland Industries,9147.5,N.A.
+171,Colgate-Palmolive,9056.7,740.4
+172,PacifiCare Health Sys.,8982.7,-21.7
+173,Sunoco,8968.0,263.0
+174,Seagate Technology,8940.0,658.0
+175,American General,8927.0,542.0
+176,Aquila,8926.3,122.1
+177,Halliburton,8818.6,454.4
+178,ITT Industries,8776.5,108.1
+179,Dana,8770.3,369.1
+180,Tenet Healthcare,8691.0,-254.0
+181,Principal Financial,8666.0,454.0
+182,Whirlpool,8617.0,-15.0
+183,Ultramar Diamond Shamrock,8606.5,154.8
+184,Sun Microsystems,8598.3,762.4
+185,Eli Lilly,8517.6,-385.1
+186,US Airways Group,8513.8,1024.7
+187,Crown Holdings,8494.6,294.0
+188,Burlington No. Santa Fe,8412.0,885.0
+189,General Re,8246.6,967.7
+190,Amerada Hess,8233.7,7.5
+191,John Hancock Financial Svcs.,8207.0,414.0
+192,Warner-Lambert,8179.8,869.5
+193,FleetBoston Financial,8095.0,1303.0
+194,Honeywell,8027.5,471.0
+195,Campbell Soup,7964.0,713.0
+196,TXU,7945.6,660.5
+197,Humana,7880.0,173.0
+198,AmerisourceBergen,7815.9,45.5
+199,Best Buy,7770.7,1.7
+200,Arrow Electronics,7763.9,163.7
+201,Dominion Resources,7677.6,399.2
+202,Circuit City Stores,7663.8,136.4
+203,Tele-Communications,7570.0,-626.0
+204,Eaton,7563.0,410.0
+205,Washington Mutual,7524.4,481.8
+206,Dresser Industries,7457.9,318.0
+207,USAA,7454.2,1189.1
+208,TJX,7389.1,304.8
+209,PPG Industries,7379.0,714.0
+210,MCI WorldCom,7351.4,383.7
+211,Lear,7342.9,207.2
+212,Bindley Western,7311.8,23.7
+213,Fort James,7259.0,-27.0
+214,Manpower,7258.5,163.9
+215,AFLAC,7250.7,585.0
+216,Health Net,7235.0,-187.1
+217,Tenneco Automotive,7220.0,315.0
+218,Continental Airlines,7213.0,385.0
+219,Consolidated Edison,7121.3,712.8
+220,Unisource,7108.4,58.7
+221,Ingersoll-Rand,7103.3,380.5
+222,Unicom,7083.0,-852.9
+223,Apple Computer,7081.0,-1045.0
+224,Tech Data,7056.6,89.5
+225,Fortune Brands,7000.8,98.5
+226,Guardian Life of America,6983.8,299.3
+227,Rite Aid,6970.2,115.4
+228,U.S. Bancorp,6908.8,838.5
+229,Reynolds Metals,6900.0,136.0
+230,CenterPoint Energy,6873.4,420.9
+231,PNC Financial Services,6859.2,1052.5
+232,Wellpoint,6831.7,-159.0
+233,Kellogg,6830.1,546.0
+234,Dillard's,6817.0,258.0
+235,PacifiCorp,6800.4,663.7
+236,Schering-Plough,6778.0,1444.0
+237,Paccar,6763.7,344.6
+238,BankBoston Corp.,6727.2,879.2
+239,Office Depot,6717.5,159.7
+240,Pharmacia,6710.0,323.0
+241,Chubb,6664.0,769.5
+242,ITT,6658.0,291.0
+243,Paine Webber Group,6657.0,415.4
+244,Unisys,6636.0,-853.6
+245,Foot Locker,6624.0,-10.0
+246,Tyco International,6597.6,419.0
+247,NCR,6589.0,7.0
+248,KeyCorp,6568.0,919.0
+249,Gap,6507.8,533.9
+250,Union Carbide,6502.0,659.0
+251,Transamerica,6485.9,793.8
+252,Ralston Purina,6470.6,423.7
+253,Cisco Systems,6440.2,1048.7
+254,Lincoln National,6437.0,934.0
+255,R.R. Donnelley & Sons,6396.2,130.6
+256,Navistar International,6371.0,150.0
+257,Public Service Enterprise Group,6370.0,560.0
+258,FPL Group,6369.0,617.5
+259,Tyson Foods,6355.7,185.8
+260,Caremark Rx,6331.2,-820.6
+261,Aramark,6310.4,146.1
+262,Gateway,6293.7,109.8
+263,St. Paul Travelers Cos.,6219.3,705.5
+264,American Electric Power,6161.4,511.0
+265,Baxter International,6138.0,300.0
+266,Bear Stearns,6077.3,613.3
+267,Unocal,6064.0,581.0
+268,Case,6024.0,403.0
+269,Marsh & McLennan,6008.6,399.4
+270,American Standard,6008.0,96.2
+271,Genuine Parts,6005.2,342.4
+272,WellPoint Health Networks,5826.4,227.4
+273,Browning-Ferris Industries,5783.0,265.2
+274,SCI Systems,5762.7,112.7
+275,Aon,5750.6,298.8
+276,AMP,5745.2,473.1
+277,Champion International,5735.5,-548.5
+278,Consolidated Natural Gas,5710.0,304.4
+279,Bank of New York Co.,5697.0,1104.0
+280,Oracle,5684.3,821.5
+281,El Paso,5638.0,186.5
+282,Cummins,5625.0,212.0
+283,Computer Sciences,5616.0,192.4
+284,General Mills,5609.3,445.4
+285,Food 4 Less,5599.1,-141.8
+286,Conseco,5568.4,567.3
+287,Household International,5503.1,686.6
+288,OfficeMax,5493.1,-30.4
+289,Fred Meyer,5481.1,12.1
+290,Avnet,5390.6,182.8
+291,RadioShack,5372.2,186.9
+292,Ryder System,5351.0,174.7
+293,Quantum,5319.5,148.5
+294,Hilton Hotels,5316.0,250.0
+295,Cendant,5314.7,872.2
+296,Cooper Industries,5288.8,394.6
+297,Wachovia Corp.,5269.6,592.8
+298,Central & South West,5268.0,153.0
+299,First Data,5234.5,356.7
+300,FMC,5231.5,162.4
+301,VF,5222.2,350.9
+302,Illinois Tool Works,5220.4,587.0
+303,Staples,5181.0,130.9
+304,Norfolk Southern,5164.5,721.0
+305,National City Corp.,5152.1,807.4
+306,Mellon Financial Corp.,5134.0,771.0
+307,Ikon Office Solutions,5128.4,130.4
+308,Avon Products,5079.4,338.8
+309,Mead,5077.4,150.1
+310,Ryerson Tull,5046.8,119.3
+311,Quaker Oats,5015.7,-930.9
+312,Columbia Energy Group,4999.9,273.3
+313,Black & Decker,4940.5,227.2
+314,Comcast,4912.6,-238.7
+315,Sherwin-Williams,4881.1,260.6
+316,Nordstrom,4851.6,186.2
+317,Stone Container,4849.1,-417.7
+318,Mattel,4834.6,285.2
+319,CMS Energy,4787.0,268.0
+320,CHS Electronics,4756.4,48.4
+321,Praxair,4735.0,405.0
+322,Gannett,4729.5,712.7
+323,Safeco,4709.3,430.0
+324,Owens-Illinois,4680.1,167.9
+325,Eastman Chemical,4678.0,286.0
+326,Air Products & Chem.,4662.0,429.3
+327,Bethlehem Steel,4631.2,280.7
+328,Exelon,4617.9,-1497.1
+329,CompUSA,4610.5,93.9
+330,Progressive,4608.2,400.0
+331,SunTrust Banks,4585.0,667.3
+332,Dover,4547.7,405.4
+333,MBNA,4523.9,622.5
+334,Union Camp,4476.8,81.1
+335,MicroAge,4446.3,25.0
+336,LTV,4446.0,30.0
+337,Williams,4409.6,271.4
+338,Nash Finch,4391.6,-1.2
+339,Mutual of Omaha Ins.,4385.1,181.6
+340,CoreStates Financial Corp.,4378.7,813.3
+341,Owens Corning,4373.0,47.0
+342,Cinergy,4352.8,253.2
+343,Allegiance,4350.8,90.9
+344,Dole Food,4336.1,160.2
+345,Hershey Foods,4302.2,336.3
+346,CNF,4266.8,120.9
+347,LG&E Energy,4263.8,97.8
+348,Oxford Health Plans,4240.1,-291.3
+349,Nucor,4184.5,294.5
+350,Western Digital,4177.9,267.6
+351,Litton Industries,4175.5,162.0
+352,Sonat,4174.6,175.9
+353,Foster Wheeler,4172.0,-10.5
+354,GPU,4143.4,335.1
+355,W.W. Grainger,4136.6,231.8
+356,Corning,4129.1,439.8
+357,Olsten,4113.0,93.0
+358,Universal,4112.7,100.9
+359,Automatic Data Proc.,4112.2,513.5
+360,Barnett Banks,4101.6,255.0
+361,Pitney Bowes,4100.5,526.0
+362,Parker Hannifin,4091.1,274.0
+363,Unum,4076.7,370.3
+364,Applied Materials,4074.3,498.5
+365,Pacific Life,4065.4,121.5
+366,General Dynamics,4062.0,316.0
+367,Big Lots,4055.3,85.9
+368,Merisel,4049.0,-15.8
+369,Computer Assoc. Intl.,4040.0,366.0
+370,American Financial Grp.,4020.7,192.3
+371,Rohm & Haas,3999.0,410.0
+372,Niagara Mohawk Holdings,3966.4,59.8
+373,ServiceMaster,3961.5,163.5
+374,Premcor,3925.3,-109.9
+375,Phelps Dodge,3914.3,408.5
+376,ProSource,3901.2,-13.7
+377,InaCom,3896.3,29.5
+378,Giant Food,3881.0,85.5
+379,Smithfield Foods,3870.6,44.9
+380,Kelly Services,3852.9,80.8
+381,Northeast Utilities,3834.8,-135.7
+382,Harris,3834.6,207.5
+383,Southwest Airlines,3816.8,317.8
+384,Centex,3785.0,106.6
+385,SLM,3784.7,507.9
+386,OfficeMax,3765.4,89.6
+387,DTE Energy,3764.5,417.3
+388,Masco,3760.0,382.4
+389,Allegheny Technologies,3745.1,297.6
+390,Republic New York Corp.,3738.2,449.1
+391,H.F. Ahmanson,3732.9,413.8
+392,Supermarkets Genl. Holdings,3710.7,-43.8
+393,Solectron,3694.4,158.1
+394,Harcourt General,3691.6,-115.1
+395,Mapco,3689.7,96.9
+396,American Family Ins. Grp.,3689.4,251.6
+397,Baker Hughes,3685.4,97.0
+398,Service Merchandise,3662.8,-91.6
+399,Silicon Graphics,3662.6,78.6
+400,Brunswick,3657.4,150.5
+401,Turner Corp.,3639.8,5.9
+402,Reebok International,3637.4,135.1
+403,Morton International,3636.5,343.0
+404,Engelhard,3630.7,47.8
+405,Temple-Inland,3625.4,50.8
+406,AirTouch Communications,3594.0,448.0
+407,Shaw Industries,3575.8,29.0
+408,Echlin,3568.6,-46.9
+409,Thermo Electron,3558.3,239.3
+410,UnumProvident,3553.1,247.3
+411,Saks,3544.7,62.7
+412,McGraw-Hill,3534.1,290.7
+413,Micron Technology,3515.5,332.2
+414,Borden Chemical,3481.6,278.0
+415,Rykoff-Sexton,3477.5,16.0
+416,Goodrich,3471.0,178.2
+417,Reliance Group Holdings,3442.6,229.4
+418,Willamette Industries,3438.7,73.0
+419,State St. Corp.,3428.0,380.0
+420,Richfood Holdings,3411.6,59.5
+421,Maytag,3407.9,180.3
+422,USF&G,3403.9,193.9
+423,Allmerica Financial,3395.6,209.2
+424,Brink's,3394.4,110.2
+425,Estee Lauder,3381.6,197.6
+426,Sealed Air,3358.0,261.0
+427,Yellow Roadway,3348.9,52.4
+428,Cyprus Amax Minerals,3346.0,69.0
+429,Avery Dennison,3345.7,204.8
+430,New Century Energies,3342.5,150.9
+431,Graybar Electric,3338.0,53.0
+432,True Value,3332.0,N.A.
+433,Trans World Airlines,3328.0,-110.8
+434,Times Mirror,3318.5,250.3
+435,Florida Progress,3315.6,54.3
+436,Constellation Energy,3307.6,282.8
+437,Alltel,3263.6,507.9
+438,Hormel Foods,3256.6,109.5
+439,Whitman,3250.1,4.1
+440,Smurfit-Stone Container,3238.0,1.0
+441,Newell Rubbermaid,3234.3,290.4
+442,Beverly Enterprises,3230.3,58.6
+443,BJ's Wholesale Club,3226.5,68.3
+444,Hannaford Bros.,3226.4,59.6
+445,AGCO,3224.4,168.7
+446,Interstate Bakeries,3212.4,97.2
+447,Corporate Express,3196.1,42.0
+448,Ameren,3195.3,347.2
+449,York International,3193.7,47.4
+450,Hasbro,3188.6,135.0
+451,Comerica,3175.4,530.5
+452,Darden Restaurants,3171.8,-91.0
+453,GenAmerica,3154.0,96.2
+454,Long Island Lighting,3147.7,334.0
+455,3Com,3147.1,374.0
+456,Mercantile Stores,3143.8,129.7
+457,Knight-Ridder,3139.1,413.0
+458,Thrivent Financial for Lutherans,3129.9,209.8
+459,Interpublic Group,3125.8,239.1
+460,Omnicom Group,3124.8,222.4
+461,Joy Global,3118.2,139.8
+462,Owens & Minor,3116.8,24.3
+463,Ventas,3116.0,130.9
+464,Level 3 Communications,3096.0,248.0
+465,Penn Traffic,3074.4,-54.6
+466,Kohl's,3060.1,141.3
+467,PPL,3048.7,296.2
+468,Millennium Chemicals,3048.0,185.0
+469,Progress Energy,3024.1,388.3
+470,Dean Foods,3018.4,86.7
+471,HealthSouth,3017.3,330.6
+472,Westvaco,3011.0,162.7
+473,IMC Global,2988.6,62.9
+474,Phoenix,2988.3,164.6
+475,Beneficial,2955.7,253.7
+476,Longs Drug Stores,2952.9,57.7
+477,EMC,2937.9,538.5
+478,Alumax,2930.9,33.7
+479,Golden West Financial,2913.8,354.1
+480,Airborne,2912.4,120.1
+481,Leggett & Platt,2909.2,208.3
+482,Ace Hardware,2907.3,N.A.
+483,Lutheran Brotherhood,2900.3,231.6
+484,Lyondell Chemical,2878.0,286.0
+485,Fleetwood Enterprises,2874.4,124.8
+486,USG,2874.0,148.0
+487,New York Times,2866.4,262.3
+488,Western Atlas,2859.3,-63.1
+489,Sonoco Products,2847.8,2.6
+490,Reader's Digest Assn.,2839.0,133.5
+491,U.S. Office Products,2835.9,57.3
+492,FirstEnergy,2821.4,305.8
+493,Comdisco Holding,2819.0,131.0
+494,Becton Dickinson,2810.5,300.1
+495,Anixter International,2805.2,45.3
+496,Barnes & Noble,2796.9,53.2
+497,Pacific Enterprises,2777.0,184.0
+498,Xcel Energy,2733.7,237.3
+499,Maxxam,2729.1,65.2
+500,Asarco,2721.0,143.4
