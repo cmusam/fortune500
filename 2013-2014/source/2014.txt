@@ -1,0 +1,500 @@
+1	沃尔玛(Wal-Mart Stores)	476294.0	16022.0
+2	埃克森美孚(Exxon Mobil)	407666.0	32580.0
+3	雪佛龙(Chevron)	220356.0	21423.0
+4	伯克希尔－哈撒韦公司(Berkshire Hathaway)	182150.0	19476.0
+5	苹果公司(Apple)	170910.0	37037.0
+6	Phillips 66公司(Phillips 66)	161175.0	3726.0
+7	通用汽车公司(General Motors)	155427.0	5346.0
+8	福特汽车公司(Ford Motor)	146917.0	7155.0
+9	通用电气公司(General Electric)	146231.0	13057.0
+10	瓦莱罗能源公司(Valero Energy)	137758.0	2720.0
+11	美国电话电报公司(AT&T)	128752.0	18249.0
+12	Cvs Caremark公司(CVS Caremark)	126761.0	4592.0
+13	房利美(Fannie Mae)	125696.0	83963.0
+14	联合健康集团(UnitedHealth Group)	122489.0	5625.0
+15	麦克森公司(McKesson)	122455.0	1338.0
+16	威瑞森电信(Verizon Communications)	120550.0	11497.0
+17	惠普(Hewlett-Packard)	112298.0	5113.0
+18	摩根大通(J.P. Morgan Chase & Co.)	106283.0	17923.0
+19	好市多(Costco Wholesale)	105156.0	2039.0
+20	美国快捷药方公司(Express Scripts Holding)	104620.0	1845.0
+21	美国银行(Bank of America Corp.)	101697.0	11431.0
+22	卡地纳健康(Cardinal Health)	101093.0	334.0
+23	国际商业机器公司(International Business Machines)	99751.0	16483.0
+24	克罗格(Kroger)	98375.0	1519.0
+25	马拉松原油公司(Marathon Petroleum)	93991.0	2112.0
+26	花旗集团(Citigroup)	93629.0	13673.0
+27	ADM公司(Archer Daniels Midland)	89804.0	1342.0
+28	美源伯根公司(AmerisourceBergen)	89140.0	434.0
+29	美国富国银行(Wells Fargo)	88069.0	21878.0
+30	波音(Boeing)	86623.0	4585.0
+31	宝洁公司(Procter & Gamble)	84167.0	11312.0
+32	房地美(Freddie Mac)	81221.0	48668.0
+33	家得宝(Home Depot)	78812.0	5385.0
+34	微软(Microsoft)	77849.0	21863.0
+35	亚马逊(Amazon.com)	74452.0	274.0
+36	塔吉特公司(Target)	72596.0	1971.0
+37	沃尔格林公司(Walgreen)	72217.0	2450.0
+38	Wellpoint公司(WellPoint)	71458.0	2490.0
+39	强生(Johnson & Johnson)	71312.0	13831.0
+40	美国国际集团(American International Group)	68678.0	9085.0
+41	州立农业保险公司(State Farm Insurance Cos.)	68291.0	5189.0
+42	大都会保险公司(MetLife)	68202.0	3368.0
+43	百事公司(PepsiCo)	66415.0	6740.0
+44	美国康卡斯特电信公司(Comcast)	64657.0	6816.0
+45	联合技术公司(United Technologies)	62935.0	5721.0
+46	谷歌(Google)	60629.0	12920.0
+47	康菲石油公司(ConocoPhillips)	59433.0	9156.0
+48	陶氏化学(Dow Chemical)	57080.0	4787.0
+49	卡特彼勒(Caterpillar)	55656.0	3789.0
+50	联合包裹速递服务公司(United Parcel Service)	55438.0	4372.0
+51	辉瑞制药有限公司(Pfizer)	53785.0	22003.0
+52	美国劳氏公司(Lowe's)	53417.0	2286.0
+53	英特尔公司(Intel)	52708.0	9620.0
+54	Energy Transfer Equity公司(Energy Transfer Equity)	48750.0	196.0
+55	思科公司(Cisco Systems)	48607.0	9983.0
+56	Enterprise Products Partners公司(Enterprise Products Partners)	47727.0	2597.0
+57	安泰保险(Aetna)	47295.0	1914.0
+58	可口可乐公司(Coca-Cola)	46854.0	8584.0
+59	洛克希德－马丁(Lockheed Martin)	45358.0	2981.0
+60	百思买(Best Buy)	45225.0	532.0
+61	华特迪士尼公司(Walt Disney)	45041.0	6136.0
+62	CHS公司(CHS)	44480.0	992.0
+63	西斯科公司(Sysco)	44411.0	992.0
+64	联邦快递(FedEx)	44287.0	1561.0
+65	默克(Merck)	44033.0	4404.0
+66	国际资产控股公司(INTL FCStone)	43768.0	19.0
+67	美国西夫韦公司(Safeway)	42982.0	3508.0
+68	江森自控有限公司(Johnson Controls)	42730.0	1178.0
+69	美国英格雷姆麦克罗公司(Ingram Micro)	42554.0	311.0
+70	Plains GP Holdings公司(Plains GP Holdings)	42249.0	15.0
+71	全球燃料服务公司(World Fuel Services)	41562.0	203.0
+72	美国保德信金融集团(Prudential Financial)	41471.0	-667.0
+73	哈门那公司(Humana)	41313.0	1231.0
+74	高盛(Goldman Sachs Group)	40874.0	8040.0
+75	Tesoro公司(Tesoro)	39193.0	412.0
+76	美国利宝相互保险公司(Liberty Mutual Insurance Group)	39133.0	1743.0
+77	霍尼韦尔国际公司(Honeywell International)	39055.0	3924.0
+78	联合大陆控股有限公司(United Continental Holdings)	38279.0	571.0
+79	HCA公司(HCA Holdings)	38040.0	1556.0
+80	迪尔公司(Deere)	37795.0	3537.0
+81	达美航空(Delta Air Lines)	37773.0	10540.0
+82	甲骨文公司(Oracle)	37180.0	10925.0
+83	摩根士丹利(Morgan Stanley)	36848.0	2932.0
+84	美国阿美拉达赫斯公司(Hess)	36694.0	5052.0
+85	二十一世纪福克斯(Twenty-First Century Fox)	36566.0	7097.0
+86	杜邦公司(DuPont)	36475.0	4848.0
+87	西尔斯控股(Sears Holdings)	36188.0	-1365.0
+88	美国纽约人寿保险公司(New York Life Insurance)	36026.0	1326.0
+89	Mondelēz International公司(Mondelēz International)	35299.0	3915.0
+90	美国运通公司(American Express)	34932.0	5359.0
+91	全美互惠保险公司(Nationwide)	34542.0	797.0
+92	好事达(Allstate)	34507.0	2280.0
+93	泰森食品(Tyson Foods)	34482.0	778.0
+94	美国超价商店公司(Supervalu)	34327.0	-1466.0
+95	美国教师退休基金会(TIAA-CREF)	33817.0	1722.0
+96	美国麻省人寿保险公司(Massachusetts Mutual Life Insurance)	33350.0	193.0
+97	信诺(Cigna)	32380.0	1476.0
+98	美国直播电视集团(DirecTV)	31754.0	2859.0
+99	通用动力(General Dynamics)	31218.0	2357.0
+100	菲利普－莫里斯国际公司(Philip Morris International)	31217.0	8576.0
+101	3M公司(3M)	30871.0	4659.0
+102	时代华纳(Time Warner)	29795.0	3691.0
+103	哈里伯顿公司(Halliburton)	29402.0	2125.0
+104	大众超级市场公司(Publix Super Markets)	29148.0	1654.0
+105	国际纸业(International Paper)	29080.0	1395.0
+106	麦当劳(McDonald's)	28106.0	5586.0
+107	梅西百货(Macy's)	27931.0	1486.0
+108	TJX公司(TJX)	27423.0	2137.0
+109	福陆公司(Fluor)	27352.0	668.0
+110	西北互助人寿保险公司(Northwestern Mutual)	26978.0	802.0
+111	技术数据公司(Tech Data)	26822.0	180.0
+112	美国航空集团(American Airlines Group)	26743.0	-1834.0
+113	美国哈特福德金融服务公司(Hartford Financial Services Group)	26341.0	176.0
+114	圣保罗旅行者保险公司(Travelers Cos.)	26191.0	3673.0
+115	耐克(Nike)	25836.0	2485.0
+116	美国西方石油公司(Occidental Petroleum)	25736.0	5903.0
+117	安富利(Avnet)	25459.0	450.0
+118	美国来爱德公司(Rite Aid)	25392.0	118.0
+119	Exelon公司(Exelon)	24888.0	1719.0
+120	高通公司(Qualcomm)	24866.0	6853.0
+121	艾默生电气公司(Emerson Electric)	24669.0	2004.0
+122	美国诺斯洛普格拉曼公司(Northrop Grumman)	24661.0	1952.0
+123	杜克能源公司(Duke Energy)	24598.0	2665.0
+124	第一资本金融公司(Capital One Financial)	24176.0	4159.0
+125	美国家庭人寿保险公司(Aflac)	23939.0	3158.0
+126	雷神公司(Raytheon)	23706.0	1996.0
+127	史泰博(Staples)	23314.0	620.0
+128	EMC公司(EMC)	23222.0	2889.0
+129	礼来公司(Eli Lilly)	23113.0	4685.0
+130	美铝公司(Alcoa)	23032.0	-2285.0
+131	国民油井华高公司(National Oilwell Varco)	22869.0	2327.0
+132	贝克休斯公司(Baker Hughes)	22364.0	1096.0
+133	US Foods公司(US Foods)	22297.0	-57.0
+134	时代华纳有线(Time Warner Cable)	22120.0	1954.0
+135	联合太平洋(Union Pacific)	21963.0	4388.0
+136	雅培公司(Abbott Laboratories)	21848.0	2576.0
+137	施乐公司(Xerox)	21838.0	1159.0
+138	艾睿电子(Arrow Electronics)	21357.0	399.0
+139	金佰利公司(Kimberly-Clark)	21152.0	2142.0
+140	美国合众银行(U.S. Bancorp)	21059.0	5836.0
+141	联合服务汽车协会(United Services Automobile Assn.)	20971.0	2726.0
+142	弗里波特－麦克莫兰铜金公司（Freeport-McMoRan Copper & Gold）(Freeport-McMoRan Copper & Gold)	20921.0	2658.0
+143	Icahn Enterprises(Icahn Enterprises)	20682.0	1025.0
+144	万宝盛华公司(ManpowerGroup)	20251.0	288.0
+145	HollyFrontier(HollyFrontier)	20161.0	736.0
+146	Global Partners公司(Global Partners)	19590.0	43.0
+147	固特异轮胎（Goodyear Tire & Rubber）(Goodyear Tire & Rubber)	19540.0	629.0
+148	PBF Energy公司(PBF Energy)	19152.0	40.0
+149	Danaher公司(Danaher)	19118.0	2695.0
+150	纽克公司(Nucor)	19052.0	488.0
+151	科尔百货(Kohl's)	19031.0	889.0
+152	艾伯维(AbbVie)	18790.0	4128.0
+153	惠尔浦(Whirlpool)	18769.0	827.0
+154	安进公司(Amgen)	18676.0	5081.0
+155	杰比尔电路公司(Jabil Circuit)	18337.0	372.0
+156	卡夫食品(Kraft Foods Group)	18218.0	2715.0
+157	前进保险公司(Progressive)	18171.0	1165.0
+158	CenturyLink公司(CenturyLink)	18095.0	-239.0
+159	通用磨坊食品公司(General Mills)	17774.0	1855.0
+160	美国西南航空公司(Southwest Airlines)	17699.0	754.0
+161	高特利集团(Altria Group)	17663.0	4535.0
+162	AutoNation(AutoNation)	17518.0	375.0
+163	切萨皮克能源公司(Chesapeake Energy)	17506.0	724.0
+164	Dollar General公司(Dollar General)	17504.0	1025.0
+165	天合汽车集团(TRW Automotive Holdings)	17435.0	970.0
+166	美国钢铁公司(United States Steel)	17424.0	-1672.0
+167	高露洁－棕榄(Colgate-Palmolive)	17420.0	2241.0
+168	康明斯(Cummins)	17301.0	1483.0
+169	帕卡公司(Paccar)	17124.0	1171.0
+170	Southern公司(Southern)	17087.0	1644.0
+171	伊利诺斯工具(Illinois Tool Works)	16904.0	1679.0
+172	PNC金融服务集团(PNC Financial Services Group)	16872.0	4220.0
+173	美敦力公司(Medtronic)	16590.0	3467.0
+174	AES公司(AES)	16580.0	114.0
+175	Murphy USA公司(Murphy USA)	16566.0	235.0
+176	百时美施贵宝公司(Bristol-Myers Squibb)	16385.0	2563.0
+177	利尔公司(Lear)	16234.0	431.0
+178	Gap公司(Gap)	16148.0	1280.0
+179	阿帕奇(Apache)	16054.0	2232.0
+180	易趣(eBay)	16047.0	2856.0
+181	纽约银行梅隆公司(Bank of New York Mellon Corp.)	15691.0	2111.0
+182	哥伦比亚广播公司(CBS)	15685.0	1879.0
+183	太平洋燃气电力公司(PG&E Corp.)	15598.0	814.0
+184	康尼格拉食品公司(ConAgra Foods)	15491.0	774.0
+185	Computer Sciences公司(Computer Sciences)	15388.0	961.0
+186	美国电力(American Electric Power)	15357.0	1480.0
+187	Western Digital公司(Western Digital)	15351.0	980.0
+188	Marathon Oil(Marathon Oil)	15320.0	1753.0
+189	百特国际(Baxter International)	15259.0	2012.0
+190	PPG 工业公司(PPG Industries)	15216.0	3231.0
+191	NextEra Energy公司(NextEra Energy)	15136.0	1908.0
+192	Community Health Systems公司(Community Health Systems)	15078.0	141.0
+193	Loews公司(Loews)	15053.0	595.0
+194	潘世奇汽车集团(Penske Automotive Group)	14969.0	244.0
+195	第一能源公司(FirstEnergy)	14950.0	392.0
+196	星巴克(Starbucks)	14892.0	8.0
+197	孟山都公司(Monsanto)	14861.0	2482.0
+198	凯洛格公司(Kellogg)	14792.0	1807.0
+199	蓝多湖公司(Land O'Lakes)	14681.0	306.0
+200	Oneok燃气公司(Oneok)	14603.0	267.0
+201	宏盟集团(Omnicom Group)	14585.0	991.0
+202	阿纳达科石油公司(Anadarko Petroleum)	14581.0	801.0
+203	EOG Resources公司(EOG Resources)	14487.0	2197.0
+204	DISH Network公司(DISH Network)	14408.0	808.0
+205	Genuine Parts公司(Genuine Parts)	14078.0	685.0
+206	金德尔－摩根(Kinder Morgan)	14070.0	1193.0
+207	废物管理公司(Waste Management)	13983.0	98.0
+208	丘博保险(Chubb)	13947.0	2345.0
+209	爱玛客控股(Aramark Holdings)	13946.0	69.0
+210	维亚康姆公司(Viacom)	13794.0	2395.0
+211	拉斯维加斯金沙公司(Las Vegas Sands)	13770.0	2306.0
+212	美国道明尼资源公司(Dominion Resources)	13424.0	1697.0
+213	Ecolab公司(Ecolab)	13253.0	968.0
+214	史密斯菲德食品公司(Smithfield Foods)	13221.0	184.0
+215	Thermo Fisher Scientific(Thermo Fisher Scientific)	13090.0	1273.0
+216	百胜餐饮集团(Yum Brands)	13084.0	1091.0
+217	派克汉尼汾公司(Parker-Hannifin)	13016.0	948.0
+218	全食超市公司(Whole Foods Market)	12917.0	551.0
+219	万豪国际(Marriott International)	12784.0	626.0
+220	美国罗宾逊全球物流有限公司(C.H. Robinson Worldwide)	12752.0	416.0
+221	L-3通信公司(L-3 Communications)	12629.0	778.0
+222	爱迪生国际公司(Edison International)	12581.0	915.0
+223	玩具反斗城(Toys "R" Us)	12543.0	-1039.0
+224	Nordstrom公司(Nordstrom)	12540.0	734.0
+225	爱迪生联合电气公司(Consolidated Edison)	12354.0	1062.0
+226	威达信集团(Marsh & McLennan)	12261.0	1357.0
+227	德州仪器公司(Texas Instruments)	12205.0	2162.0
+228	德事隆公司(Textron)	12104.0	498.0
+229	Tenet Healthcare公司(Tenet Healthcare)	12081.0	-134.0
+230	DaVita公司(DaVita HealthCare Partners)	12064.0	633.0
+231	CSX科技公司(CSX)	12026.0	1864.0
+232	Lincoln National公司(Lincoln National)	11969.0	1244.0
+233	Praxair公司(Praxair)	11925.0	1755.0
+234	PPL公司(PPL)	11860.0	1130.0
+235	杰西潘尼公司(J.C. Penney)	11859.0	-1388.0
+236	Peter Kiewit Sons'公司(Peter Kiewit Sons')	11826.0	500.0
+237	Jacobs Engineering Group公司(Jacobs Engineering Group)	11818.0	423.0
+238	Visa公司(Visa)	11778.0	4980.0
+239	亨氏食品公司(H.J. Heinz)	11577.0	1013.0
+240	CarMax公司(CarMax)	11458.0	434.0
+241	VF公司(VF)	11420.0	1210.0
+242	Entergy公司(Entergy)	11391.0	712.0
+243	Automatic Data Processing公司(Automatic Data Processing)	11334.0	1406.0
+244	NRG Energy公司(NRG Energy)	11295.0	-386.0
+245	Guardian Life Ins. Co. of America公司(Guardian Life Ins. Co. of America)	11272.0	271.0
+246	Liberty Interactive(Liberty Interactive)	11252.0	501.0
+247	诺福克南方公司(Norfolk Southern)	11245.0	1910.0
+248	欧迪办公(Office Depot)	11242.0	-20.0
+249	Ameriprise Financial公司(Ameriprise Financial)	11230.0	1334.0
+250	吉利德科学公司(Gilead Sciences)	11202.0	3075.0
+251	Centene公司(Centene)	11130.0	165.0
+252	Leucadia National公司(Leucadia National)	11119.0	369.0
+253	Huntsman公司(Huntsman)	11079.0	128.0
+254	Health Net公司(Health Net)	11054.0	170.0
+255	史丹利百德公司(Stanley Black & Decker)	11040.0	490.0
+256	URS公司(URS)	10991.0	247.0
+257	Xcel Energy公司(Xcel Energy)	10915.0	948.0
+258	Bed Bath & Beyond公司(Bed Bath & Beyond)	10915.0	1038.0
+259	航星(Navistar International)	10848.0	-898.0
+260	Synnex公司(Synnex)	10845.0	152.0
+261	第一资讯公司(First Data)	10809.0	-869.0
+262	AGCO公司(AGCO)	10787.0	597.0
+263	有限品牌公司(L Brands)	10773.0	903.0
+264	Hertz Global Holdings公司(Hertz Global Holdings)	10772.0	346.0
+265	CDW公司(CDW)	10769.0	133.0
+266	CST Brands公司(CST Brands)	10750.0	139.0
+267	Sempra Energy公司(Sempra Energy)	10557.0	1001.0
+268	R.R. Donnelley & Sons公司(R.R. Donnelley & Sons)	10480.0	211.0
+269	BB&T Corp.公司(BB&T Corp.)	10444.0	1679.0
+270	戴文能源公司(Devon Energy)	10397.0	-20.0
+271	Family Dollar Stores公司(Family Dollar Stores)	10392.0	444.0
+272	Unum Group集团(Unum Group)	10354.0	858.0
+273	联合汽车金融公司(Ally Financial)	10339.0	361.0
+274	美国再保险集团(Reinsurance Group of America)	10318.0	419.0
+275	道富集团公司(State Street Corp.)	10295.0	2136.0
+276	空气化工产品公司(Air Products & Chemicals)	10233.0	994.0
+277	Ross Stores公司(Ross Stores)	10230.0	837.0
+278	舍尔温－威廉姆斯公司(Sherwin-Williams)	10186.0	753.0
+279	雅诗兰黛(Estée Lauder)	10182.0	1020.0
+280	贝莱德(BlackRock)	10180.0	2932.0
+281	Western Refining公司(Western Refining)	10086.0	276.0
+282	雅芳产品公司(Avon Products)	10010.0	-56.0
+283	美盛公司(Mosaic)	9974.0	1889.0
+284	公共服务企业集团(Public Service Enterprise Group)	9968.0	1243.0
+285	Dean Foods公司(Dean Foods)	9963.0	813.0
+286	卡梅隆国际(Cameron International)	9838.0	699.0
+287	米高梅集团(MGM Resorts International)	9810.0	-157.0
+288	KKR公司(KKR)	9759.0	691.0
+289	希尔顿全球控股(Hilton Worldwide Holdings)	9735.0	415.0
+290	DTE Energy公司(DTE Energy)	9661.0	661.0
+291	Genworth Financial公司(Genworth Financial)	9614.0	560.0
+292	Henry Schein公司(Henry Schein)	9561.0	432.0
+293	Rock-Tenn公司(Rock-Tenn)	9545.0	727.0
+294	WellCare Health Plans公司(WellCare Health Plans)	9528.0	175.0
+295	固安捷公司(W.W. Grainger)	9438.0	797.0
+296	发现金融服务公司(Discover Financial Services)	9370.0	2470.0
+297	伊士曼化学公司(Eastman Chemical)	9350.0	1165.0
+298	信安金融(Principal Financial)	9290.0	913.0
+299	Reliance Steel & Aluminum公司(Reliance Steel & Aluminum)	9224.0	322.0
+300	AutoZone公司(AutoZone)	9148.0	1017.0
+301	都福(Dover)	9123.0	1003.0
+302	美光科技(Micron Technology)	9073.0	1190.0
+303	Owens & Minor公司(Owens & Minor)	9072.0	111.0
+304	Assurant公司(Assurant)	9048.0	489.0
+305	GameStop公司(GameStop)	9040.0	354.0
+306	史塞克(Stryker)	9021.0	1006.0
+307	Group 1 Automotive公司(Group 1 Automotive)	8919.0	114.0
+308	高知特资讯技术公司(Cognizant Technology Solutions)	8843.0	1229.0
+309	Sonic Automotive公司(Sonic Automotive)	8843.0	82.0
+310	Autoliv公司(Autoliv)	8803.0	486.0
+311	Hormel Foods公司(Hormel Foods)	8752.0	526.0
+312	摩托罗拉系统(Motorola Solutions)	8696.0	1099.0
+313	Crown Holdings公司(Crown Holdings)	8656.0	324.0
+314	太阳信用银行(SunTrust Banks)	8602.0	1344.0
+315	金宝汤(Campbell Soup)	8584.0	458.0
+316	Fidelity National Financial公司(Fidelity National Financial)	8573.0	402.0
+317	HD Supply Holdings公司(HD Supply Holdings)	8569.0	-218.0
+318	凯撒娱乐(Caesars Entertainment)	8563.0	-2948.0
+319	Darden Restaurants公司(Darden Restaurants)	8552.0	412.0
+320	惠好公司(Weyerhaeuser)	8529.0	563.0
+321	Ball公司(Ball)	8468.0	407.0
+322	Precision Castparts公司(Precision Castparts)	8463.0	1427.0
+323	Masco公司(Masco)	8438.0	272.0
+324	环球健康服务公司(Universal Health Services)	8419.0	511.0
+325	Republic Services公司(Republic Services)	8417.0	589.0
+326	万事达(MasterCard)	8346.0	3116.0
+327	纽蒙特矿业(Newmont Mining)	8322.0	-2462.0
+328	博通(Broadcom)	8305.0	424.0
+329	雷诺兹烟草公司(Reynolds American)	8236.0	1718.0
+330	PVH集团(PVH)	8186.0	144.0
+331	特许通讯公司(Charter Communications)	8155.0	-169.0
+332	AECOM Technology公司(AECOM Technology)	8154.0	239.0
+333	CenterPoint Energy公司(CenterPoint Energy)	8106.0	311.0
+333	太平洋人寿(Pacific Life)	8106.0	720.0
+335	Thrivent Financial for Lutherans公司(Thrivent Financial for Lutherans)	8101.0	414.0
+336	Becton Dickinson公司(Becton Dickinson)	8074.0	1293.0
+337	富兰克林资源(Franklin Resources)	7985.0	2150.0
+338	天纳克公司(Tenneco)	7964.0	183.0
+339	TravelCenters of America公司(TravelCenters of America)	7963.0	17.0
+340	Avis Budget Group公司(Avis Budget Group)	7937.0	16.0
+341	Facebook公司(Facebook)	7872.0	1500.0
+342	Dollar Tree公司(Dollar Tree)	7840.0	597.0
+343	康宁公司(Corning)	7819.0	1961.0
+344	Ashland公司(Ashland)	7813.0	683.0
+345	希悦尔(Sealed Air)	7780.0	124.0
+346	Core-Mark Holding公司(Core-Mark Holding)	7717.0	42.0
+347	Oshkosh公司(Oshkosh)	7686.0	318.0
+348	可口可乐企业(Coca-Cola Enterprises)	7657.0	667.0
+349	Wesco International公司(Wesco International)	7513.0	276.0
+350	应用材料公司(Applied Materials)	7509.0	256.0
+351	威斯顿(Visteon)	7439.0	690.0
+352	BorgWarner公司(BorgWarner)	7437.0	624.0
+353	光谱国际集团(Spectrum Group International)	7406.0	3.0
+354	橡树资本集团(Oaktree Capital Group)	7405.0	222.0
+355	Steel Dynamics公司(Steel Dynamics)	7373.0	189.0
+356	Jarden公司(Jarden)	7356.0	204.0
+357	Mohawk Industries公司(Mohawk Industries)	7349.0	349.0
+358	特雷克斯公司(Terex)	7310.0	226.0
+359	Northeast Utilities公司(Northeast Utilities)	7301.0	786.0
+360	KBR公司(KBR)	7283.0	229.0
+361	五三银行(Fifth Third Bancorp)	7200.0	1836.0
+362	UGI公司(UGI)	7195.0	278.0
+363	世邦魏理仕(CBRE Group)	7194.0	317.0
+364	探索诊断公司(Quest Diagnostics)	7174.0	849.0
+365	博地能源公司(Peabody Energy)	7150.0	-525.0
+366	好时(Hershey)	7146.0	821.0
+367	波士顿科学公司(Boston Scientific)	7143.0	-121.0
+368	FMC Technologies公司(FMC Technologies)	7126.0	501.0
+369	埃培智集团(Interpublic Group)	7122.0	268.0
+370	Commercial Metals公司(Commercial Metals)	7047.0	77.0
+371	Pantry公司(Pantry)	7013.0	-3.0
+372	欧文斯－依利诺伊(Owens-Illinois)	6967.0	184.0
+373	美国家庭保险集团(American Family Insurance Group)	6954.0	379.0
+374	拉尔夫?劳伦公司(Ralph Lauren)	6945.0	750.0
+375	艾迪克(Biogen Idec)	6932.0	1862.0
+376	PetSmart公司(PetSmart)	6917.0	420.0
+377	米兰公司(Mylan)	6909.0	624.0
+378	赛门铁克(Symantec)	6906.0	765.0
+379	Ameren公司(Ameren)	6875.0	289.0
+380	Williams公司(Williams)	6860.0	430.0
+381	巴诺公司(Barnes & Noble)	6839.0	-158.0
+382	Huntington Ingalls Industries公司(Huntington Ingalls Industries)	6820.0	261.0
+383	Priceline集团(Priceline Group)	6793.0	1893.0
+384	安捷伦科技公司(Agilent Technologies)	6782.0	724.0
+385	Dana Holding公司(Dana Holding)	6769.0	244.0
+386	Dillard's公司(Dillard's)	6692.0	324.0
+387	Seaboard公司(Seaboard)	6670.0	205.0
+388	Vanguard Health Systems公司(Vanguard Health Systems)	6667.0	62.0
+389	Casey's General Stores公司(Casey's General Stores)	6655.0	111.0
+390	O'Reilly Automotive公司(O'Reilly Automotive)	6649.0	670.0
+391	黑石集团(Blackstone Group)	6613.0	1171.0
+392	Mutual of Omaha Insurance公司(Mutual of Omaha Insurance)	6602.0	359.0
+393	Molina Healthcare公司(Molina Healthcare)	6589.0	53.0
+394	CMS能源公司(CMS Energy)	6566.0	452.0
+395	Targa Resources公司(Targa Resources)	6556.0	65.0
+396	Quanta Services公司(Quanta Services)	6523.0	402.0
+397	Cablevision Systems公司(Cablevision Systems)	6522.0	466.0
+398	艾利丹尼森公司(Avery Dennison)	6520.0	216.0
+399	塞拉尼斯公司(Celanese)	6510.0	1101.0
+400	Foot Locker公司(Foot Locker)	6505.0	429.0
+401	Celgene公司(Celgene)	6494.0	1450.0
+402	Advance Auto Parts公司(Advance Auto Parts)	6494.0	392.0
+403	美泰公司(Mattel)	6485.0	904.0
+404	Live Nation Entertainment公司(Live Nation Entertainment)	6479.0	-43.0
+405	General Cable公司(General Cable)	6421.0	-18.0
+406	赖德系统公司(Ryder System)	6419.0	238.0
+407	Emcor集团(Emcor Group)	6417.0	124.0
+408	Allergan公司(Allergan)	6415.0	985.0
+409	W.R. Berkley公司(W.R. Berkley)	6409.0	500.0
+410	罗克韦尔自动化(Rockwell Automation)	6352.0	756.0
+411	NetApp公司(NetApp)	6332.0	505.0
+412	Ingredion公司(Ingredion)	6328.0	396.0
+413	Level 3 Communications公司(Level 3 Communications)	6313.0	-109.0
+414	Calpine公司(Calpine)	6301.0	14.0
+415	Omnicare公司(Omnicare)	6277.0	-43.0
+416	Erie Insurance Group公司(Erie Insurance Group)	6271.0	163.0
+417	SLM集团(SLM)	6263.0	1418.0
+418	霍顿公司(D.R. Horton)	6259.0	463.0
+419	CC Media Holdings公司(CC Media Holdings)	6243.0	-607.0
+420	Anixter国际公司(Anixter International)	6227.0	201.0
+421	Dick's Sporting Goods公司(Dick's Sporting Goods)	6213.0	338.0
+422	SanDisk公司(SanDisk)	6170.0	1043.0
+423	NCR公司(NCR)	6123.0	443.0
+424	喜达屋酒店集团(Starwood Hotels & Resorts)	6115.0	635.0
+425	华盛顿国际商贸公司(Expeditors International of Washington)	6080.0	349.0
+426	繁德公司(Fidelity National Information Services)	6071.0	493.0
+427	United Natural Foods公司(United Natural Foods)	6064.0	108.0
+428	Auto-Owners Insurance公司(Auto-Owners Insurance)	6062.0	579.0
+429	Windstream Holdings公司(Windstream Holdings)	6005.0	241.0
+430	澎泉思蓝宝集团(Dr Pepper Snapple Group)	5997.0	624.0
+431	莱纳房屋公司(Lennar)	5935.0	480.0
+432	新美亚(Sanmina)	5917.0	79.0
+433	哈雷戴维森公司(Harley-Davidson)	5900.0	734.0
+434	康索尔能源公司(Consol Energy)	5899.0	660.0
+435	J.M. Smucker公司(J.M. Smucker)	5898.0	544.0
+436	纽威尔集团(Newell Rubbermaid)	5887.0	475.0
+437	西图集团(CH2M Hill)	5878.0	118.0
+438	未来能源控股公司(Energy Future Holdings)	5850.0	-2587.0
+439	Susser Holdings公司(Susser Holdings)	5831.0	14.0
+440	Laboratory Corp. of America公司(Laboratory Corp. of America)	5808.0	574.0
+441	Kindred Healthcare公司(Kindred Healthcare)	5794.0	-169.0
+442	Leidos Holdings公司(Leidos Holdings)	5788.0	164.0
+443	博思艾伦咨询有限公司(Booz Allen Hamilton Holding)	5758.0	219.0
+444	Jones Financial公司(Jones Financial)	5716.0	674.0
+445	CLF公司(Cliffs Natural Resources)	5691.0	414.0
+446	PulteGroup公司(PulteGroup)	5680.0	2620.0
+447	地区金融公司(Regions Financial)	5665.0	1122.0
+448	NiSource公司(NiSource)	5660.0	532.0
+449	Graybar Electric公司(Graybar Electric)	5659.0	81.0
+450	Integrys Energy Group公司(Integrys Energy Group)	5636.0	352.0
+451	高乐氏(Clorox)	5623.0	572.0
+452	Wynn Resorts公司(Wynn Resorts)	5621.0	729.0
+453	Andersons公司(Andersons)	5605.0	90.0
+454	J.B. Hunt Transport Services公司(J.B. Hunt Transport Services)	5585.0	342.0
+455	AK钢铁控股公司(AK Steel Holding)	5570.0	-47.0
+456	Harbinger Group公司(Harbinger Group)	5543.0	-46.0
+457	美德维实伟克公司(MeadWestvaco)	5543.0	839.0
+458	西联(Western Union)	5542.0	798.0
+459	嘉信理财(Charles Schwab)	5539.0	1071.0
+460	探索传播(Discovery Communications)	5535.0	1075.0
+461	Spectra Energy公司(Spectra Energy)	5518.0	1038.0
+462	St. Jude Medical公司(St. Jude Medical)	5501.0	723.0
+463	CF Industries Holdings公司(CF Industries Holdings)	5475.0	1465.0
+464	Con-way公司(Con-way)	5473.0	99.0
+465	Old Republic International公司(Old Republic International)	5443.0	448.0
+466	捷蓝航空(JetBlue Airways)	5441.0	168.0
+467	Calumet Specialty Products公司(Calumet Specialty Products)	5421.0	4.0
+468	凯利服务公司(Kelly Services)	5413.0	59.0
+469	Domtar公司(Domtar)	5391.0	91.0
+470	墨菲石油公司(Murphy Oil)	5390.0	1124.0
+471	Harris公司(Harris)	5371.0	113.0
+472	Asbury Automotive Group公司(Asbury Automotive Group)	5339.0	109.0
+473	Big Lots公司(Big Lots)	5302.0	125.0
+474	超威半导体公司(Advanced Micro Devices)	5299.0	-83.0
+475	Owens Corning公司(Owens Corning)	5295.0	204.0
+476	Realogy Holdings公司(Realogy Holdings)	5289.0	438.0
+477	Host Hotels & Resorts集团(Host Hotels & Resorts)	5270.0	317.0
+478	MRC Global公司(MRC Global)	5231.0	152.0
+479	西蒙房地产集团(Simon Property Group)	5170.0	1320.0
+480	Tractor Supply公司(Tractor Supply)	5165.0	328.0
+481	甘尼特集团(Gannett)	5161.0	389.0
+482	阿拉斯加航空集团(Alaska Air Group)	5156.0	508.0
+483	Insight Enterprises公司(Insight Enterprises)	5144.0	71.0
+484	McGraw Hill Financial公司(McGraw Hill Financial)	5143.0	1376.0
+485	Buckeye Partners公司(Buckeye Partners)	5110.0	160.0
+486	昆泰跨国控股(Quintiles Transnational Holdings)	5100.0	227.0
+487	American Financial Group公司(American Financial Group)	5092.0	471.0
+488	联合文具公司(United Stationers)	5085.0	123.0
+489	蔻驰(Coach)	5075.0	1034.0
+490	LKQ公司(LKQ)	5063.0	312.0
+491	Noble Energy公司(Noble Energy)	5052.0	978.0
+492	Bemis公司(Bemis)	5030.0	213.0
+493	Joy Global公司(Joy Global)	5013.0	534.0
+494	温德姆环球公司(Wyndham Worldwide)	5009.0	432.0
+495	NII控股公司(NII Holdings)	4978.0	-1650.0
+496	Lorillard公司(Lorillard)	4972.0	1180.0
+497	Alleghany公司(Alleghany)	4972.0	628.0
+498	Airgas公司(Airgas)	4958.0	341.0
+499	First American Financial公司(First American Financial)	4956.0	186.0
+500	United Rentals公司(United Rentals)	4955.0	387.0
