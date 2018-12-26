@@ -1,6 +1,9 @@
-# Historical Fortune 500 company lists
+# Fortune 500 company lists (1955-2018)
+
+## Usage
 The dataset can be found under the `csv/` directory.
 
+## How is this dataset collected?
 The lists are collected from a variety of sources, because I failed to find a complete dataset that contains all lists from 1955 to 2018. The methods and sources are described below.
 
 ## 1955-2005
@@ -23,7 +26,7 @@ urls = [base.format(year, page) for year in range(2006,2013) for page in pages]
 ```
 
 ## 2013-2014
-The data is from FortuneChina.com, the official website of Fortune magazine for China.
+The data is from [FortuneChina.com](http://www.FortuneChina.com), the official website of Fortune magazine for China.
 
 Data source: 
 ```Python3
