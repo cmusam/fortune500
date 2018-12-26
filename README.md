@@ -3,8 +3,10 @@
 ## Usage
 The dataset can be found under the `csv/` directory.
 
+> The Fortune 500 is an annual list compiled and published by [Fortune](https://en.wikipedia.org/wiki/Fortune_(magazine)) magazine that ranks 500 of the largest United States corporations by total revenue for their respective fiscal years.
+
 ## How is this dataset collected?
-The lists are collected from a variety of sources, because I failed to find a complete dataset that contains all lists from 1955 to 2018. The methods and sources are described below.
+The lists are collected from a variety of sources, because I failed to find a single complete dataset that contains all lists from 1955 to 2018. The methods and sources are described below.
 
 ## 1955-2005
 HTML sources are downloaded using `urllib`, parsed using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), and saved as CSV. 
