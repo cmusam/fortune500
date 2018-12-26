@@ -22,8 +22,8 @@ pages = ('index', '101_200', '201_300', '301_400', '401_500')
 urls = [base.format(year, page) for year in range(2006,2013) for page in pages]
 ```
 
-## 2015-
-How to get data for 2015 is less obvious. Opening http://fortune.com/fortune500/2015/list with Google Chrome, only the top 20 companies are loaded. More rows are only loaded if you scroll down to the bottom of the page.
+## 2015-2018
+Getting data for 2015-2018 is slightly more complicated. Opening http://fortune.com/fortune500/2015/list with Google Chrome, only the top 20 companies are loaded. More rows are only loaded if you scroll down to the bottom of the page.
 
 1. On the webpage, open [Developer Tools](https://developers.google.com/web/tools/chrome-devtools/).
 2. Scroll to the bottom of the page, and the next 30 companies (ranked 21 through 50) will be loaded. 
