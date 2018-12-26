@@ -31,6 +31,7 @@ How to get data for 2015 is less obvious. Opening http://fortune.com/fortune500/
 4. Right click on the request to reveal link `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/20/30`
 5. After inspecting, we find that `/20/30` means **skip 20 and take 30**, equivalent to getting row 21 through row 50.
 6. It seems this API gives at most 100 rows per call. So, we can access `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/0/100` to get the first 100 companies, and `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/100/100` to get the next 100, and so on.
+7. Finally, use the Python `json` package to parse the JSON files, and build the CSV files.
 
 Data source:
 http://fortune.com/fortune500/2015/list
