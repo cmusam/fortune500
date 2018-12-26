@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions)
+1,Wal-Mart Stores,"408,214.0","14,335.0"
+2,Exxon Mobil,"284,650.0","19,280.0"
+3,Chevron,"163,527.0","10,483.0"
+4,General Electric,"156,779.0","11,025.0"
+5,Bank of America Corp.,"150,450.0","6,276.0"
+6,ConocoPhillips,"139,515.0","4,858.0"
+7,AT&T,"123,018.0","12,535.0"
+8,Ford Motor,"118,308.0","2,717.0"
+9,J.P. Morgan Chase & Co.,"115,632.0","11,728.0"
+10,Hewlett-Packard,"114,552.0","7,660.0"
+11,Berkshire Hathaway,"112,493.0","8,055.0"
+12,Citigroup,"108,785.0","-1,606.0"
+13,Verizon Communications,"107,808.0","3,651.0"
+14,McKesson,"106,632.0",823.0
+15,General Motors,"104,589.0",N.A.
+16,American International Group,"103,189.0","-10,949.0"
+17,Cardinal Health,"99,612.9","1,151.6"
+18,CVS Caremark,"98,729.0","3,696.0"
+19,Wells Fargo,"98,636.0","12,275.0"
+20,International Business Machines,"95,758.0","13,425.0"
+21,UnitedHealth Group,"87,138.0","3,822.0"
+22,Procter & Gamble,"79,697.0","13,436.0"
+23,Kroger,"76,733.2",70.0
+24,AmerisourceBergen,"71,789.0",503.4
+25,Costco Wholesale,"71,422.0","1,086.0"
+26,Valero Energy,"70,035.0","-1,982.0"
+27,Archer Daniels Midland,"69,207.0","1,707.0"
+28,Boeing,"68,281.0","1,312.0"
+29,Home Depot,"66,176.0","2,661.0"
+30,Target,"65,357.0","2,488.0"
+31,WellPoint,"65,028.1","4,745.9"
+32,Walgreen,"63,335.0","2,006.0"
+33,Johnson & Johnson,"61,897.0","12,266.0"
+34,State Farm Insurance Cos.,"61,479.6",766.7
+35,Medco Health Solutions,"59,804.2","1,280.3"
+36,Microsoft,"58,437.0","14,569.0"
+37,United Technologies,"52,920.0","3,829.0"
+38,Dell,"52,902.0","1,433.0"
+39,Goldman Sachs Group,"51,673.0","13,385.0"
+40,Pfizer,"50,009.0","8,635.0"
+41,Marathon Oil,"49,403.0","1,463.0"
+42,Lowe's,"47,220.0","1,783.0"
+43,United Parcel Service,"45,297.0","2,152.0"
+44,Lockheed Martin,"45,189.0","3,024.0"
+45,Best Buy,"45,015.0","1,003.0"
+46,Dow Chemical,"44,945.0",648.0
+47,Supervalu,"44,564.0","-2,855.0"
+48,Sears Holdings,"44,043.0",235.0
+49,International Assets Holding,"43,604.4",27.6
+50,PepsiCo,"43,232.0","5,946.0"
+51,MetLife,"41,098.0","-2,246.0"
+52,Safeway,"40,850.7","-1,097.5"
+53,Kraft Foods,"40,386.0","3,021.0"
+54,Freddie Mac,"37,614.0","-21,553.0"
+55,Sysco,"36,853.3","1,055.9"
+56,Apple,"36,537.0","5,704.0"
+57,Walt Disney,"36,149.0","3,307.0"
+58,Cisco Systems,"36,117.0","6,134.0"
+59,Comcast,"35,756.0","3,638.0"
+60,FedEx,"35,497.0",98.0
+61,Northrop Grumman,"35,291.0","1,686.0"
+62,Intel,"35,127.0","4,369.0"
+63,Aetna,"34,764.1","1,276.5"
+64,New York Life Insurance,"34,014.3",682.7
+65,Prudential Financial,"32,688.0","3,124.0"
+66,Caterpillar,"32,396.0",895.0
+67,Sprint Nextel,"32,260.0","-2,436.0"
+68,Allstate,"32,013.0",854.0
+69,General Dynamics,"31,981.0","2,394.0"
+70,Morgan Stanley,"31,515.0","1,346.0"
+71,Liberty Mutual Insurance Group,"31,094.0","1,023.0"
+72,Coca-Cola,"30,990.0","6,824.0"
+73,Humana,"30,960.4","1,039.7"
+74,Honeywell International,"30,908.0","2,153.0"
+75,Abbott Laboratories,"30,764.7","5,745.8"
+76,News Corp.,"30,423.0","-3,378.0"
+77,HCA,"30,052.0","1,054.0"
+78,Sunoco,"29,630.0",-329.0
+79,Hess,"29,569.0",740.0
+80,Ingram Micro,"29,515.4",202.1
+81,Fannie Mae,"29,065.0","-71,969.0"
+82,Time Warner,"28,842.0","2,468.0"
+83,Johnson Controls,"28,497.0",-338.0
+84,Delta Air Lines,"28,063.0","-1,237.0"
+85,Merck,"27,428.3","12,901.3"
+86,DuPont,"27,328.0","1,755.0"
+87,Tyson Foods,"27,165.0",-537.0
+88,American Express,"26,730.0","2,130.0"
+89,Rite Aid,"26,289.5","-2,915.4"
+90,TIAA-CREF,"26,278.0",-459.1
+91,CHS,"25,729.9",381.4
+92,Enterprise GP Holdings,"25,510.9",204.1
+93,Massachusetts Mutual Life Insurance,"25,423.6",-115.1
+94,Philip Morris International,"25,035.0","6,342.0"
+95,Raytheon,"24,881.0","1,935.0"
+96,Express Scripts,"24,748.9",827.6
+97,Hartford Financial Services,"24,701.0",-887.0
+98,Travelers Cos.,"24,680.0","3,622.0"
+99,Publix Super Markets,"24,515.0","1,161.4"
+100,Amazon.com,"24,509.0",902.0
+101,Staples,"24,275.5",738.7
+102,Google,"23,650.6","6,520.4"
+103,Macy's,"23,489.0",350.0
+104,International Paper,"23,366.0",663.0
+105,Oracle,"23,252.0","5,593.0"
+106,3M,"23,123.0","3,193.0"
+107,Deere,"23,112.4",873.5
+108,McDonald's,"22,744.7","4,551.0"
+109,Tech Data,"22,099.9",180.2
+110,Motorola,"22,063.0",-51.0
+111,Fluor,"21,990.3",684.9
+112,Eli Lilly,"21,836.0","4,328.8"
+113,Coca-Cola Enterprises,"21,645.0",731.0
+114,Bristol-Myers Squibb,"21,634.0","10,612.0"
+115,Northwestern Mutual,"21,602.6",321.0
+116,DirecTV Group,"21,565.0",942.0
+117,Emerson Electric,"20,915.0","1,724.0"
+118,Nationwide,"20,751.0",716.0
+119,TJX,"20,288.4","1,213.6"
+120,AMR,"19,917.0","-1,468.0"
+121,U.S. Bancorp,"19,490.0","2,205.0"
+122,GMAC,"19,403.0","-10,298.0"
+123,PNC Financial Services Group,"19,231.0","2,447.0"
+124,Nike,"19,176.1","1,486.7"
+125,Murphy Oil,"19,138.0",837.6
+126,Kimberly-Clark,"19,115.0","1,884.0"
+127,Alcoa,"18,745.0","-1,151.0"
+128,Plains All American Pipeline,"18,520.0",579.0
+129,Cigna,"18,414.0","1,302.0"
+130,AFLAC,"18,254.4","1,497.0"
+131,Time Warner Cable,"17,868.0","1,070.0"
+132,United Services Automobile Association,"17,557.6","3,020.1"
+133,J.C. Penney,"17,556.0",251.0
+134,Exelon,"17,318.0","2,707.0"
+135,Kohl's,"17,178.0",991.0
+136,Whirlpool,"17,099.0",328.0
+137,Altria Group,"16,824.0","3,206.0"
+138,Computer Sciences,"16,739.9","1,115.2"
+139,Tesoro,"16,589.0",-140.0
+140,UAL,"16,335.0",-651.0
+141,Goodyear Tire & Rubber,"16,301.0",-375.0
+142,Avnet,"16,229.9","-1,122.5"
+143,Manpower,"16,038.7",-9.2
+144,Capital One Financial,"15,980.1",883.8
+145,Southern,"15,743.0","1,643.0"
+146,Health Net,"15,713.2",-49.0
+147,FPL Group,"15,643.0","1,615.0"
+148,L-3 Communications,"15,615.0",901.0
+149,Constellation Energy,"15,598.8","4,443.4"
+150,Occidental Petroleum,"15,531.0","2,915.0"
+151,Colgate-Palmolive,"15,327.0","2,291.0"
+152,Xerox,"15,179.0",485.0
+153,Dominion Resources,"15,131.0","1,287.0"
+154,Freeport-McMoRan Copper & Gold,"15,040.0","2,749.0"
+155,General Mills,"14,691.3","1,304.4"
+156,AES,"14,690.0",658.0
+157,Arrow Electronics,"14,684.1",123.5
+158,Halliburton,"14,675.0","1,145.0"
+159,Amgen,"14,642.0","4,605.0"
+160,Medtronic,"14,599.0","2,169.0"
+161,Progressive,"14,563.6","1,057.5"
+162,Gap,"14,197.0","1,102.0"
+163,Smithfield Foods,"14,190.5",-190.3
+164,Union Pacific,"14,143.0","1,898.0"
+165,Loews,"14,123.0",564.0
+166,EMC,"14,025.9","1,088.1"
+167,Burlington Northern Santa Fe,"14,016.0","1,721.0"
+168,Coventry Health Care,"13,993.3",242.3
+169,Illinois Tool Works,"13,903.6",947.0
+170,Viacom,"13,619.0","1,611.0"
+171,"Toys ""R"" Us","13,568.0",312.0
+172,American Electric Power,"13,489.0","1,357.0"
+173,PG&E Corp.,"13,399.0","1,220.0"
+174,Pepsi Bottling,"13,219.0",612.0
+175,Consolidated Edison,"13,031.6",868.2
+176,Chubb,"13,016.0","2,183.0"
+177,CBS,"13,014.6",226.5
+178,ConAgra Foods,"12,980.8",978.4
+179,FirstEnergy,"12,967.0","1,006.0"
+180,Sara Lee,"12,881.0",364.0
+181,Duke Energy,"12,731.0","1,075.0"
+182,National Oilwell Varco,"12,712.0","1,469.0"
+183,Continental Airlines,"12,586.0",-282.0
+184,Kellogg,"12,575.0","1,212.0"
+185,Baxter International,"12,562.0","2,205.0"
+186,Public Service Enterprise Group,"12,406.0","1,592.0"
+187,Edison International,"12,361.0",849.0
+188,Qwest Communications,"12,311.0",662.0
+189,Aramark,"12,297.9",-6.9
+190,PPG Industries,"12,239.0",336.0
+191,Community Health Systems,"12,149.7",243.2
+192,Office Depot,"12,144.5",-596.5
+193,KBR,"12,105.0",290.0
+194,Eaton,"11,873.0",383.0
+195,Dollar General,"11,796.4",339.4
+196,Waste Management,"11,791.0",994.0
+197,Monsanto,"11,740.0","2,109.0"
+198,Omnicom Group,"11,720.7",793.0
+199,Jabil Circuit,"11,684.5","-1,165.2"
+200,DISH Network,"11,664.2",635.5
+201,TRW Automotive Holdings,"11,614.0",55.0
+202,Navistar International,"11,569.0",320.0
+203,Jacobs Engineering Group,"11,467.4",399.9
+204,Sun Microsystems,"11,449.0","-2,234.0"
+205,World Fuel Services,"11,295.2",117.1
+206,Nucor,"11,190.3",-293.6
+207,Danaher,"11,184.9","1,151.7"
+208,Dean Foods,"11,158.4",240.3
+209,Oneok,"11,111.7",305.5
+210,Liberty Global,"11,110.4",-412.1
+211,United States Steel,"11,048.0","-1,401.0"
+212,AutoNation,"11,015.6",198.0
+213,Marriott International,"10,908.0",-346.0
+214,ITT,"10,904.5",643.7
+215,SAIC,"10,847.0",497.0
+216,Yum Brands,"10,836.0","1,071.0"
+217,BB&T Corp.,"10,818.0",853.0
+218,Cummins,"10,800.0",428.0
+219,Entergy,"10,745.7","1,231.1"
+220,Textron,"10,548.0",-31.0
+221,Marsh & McLennan,"10,493.0",227.0
+222,US Airways Group,"10,458.0",-205.0
+223,Texas Instruments,"10,427.0","1,470.0"
+224,SunTrust Banks,"10,420.0","-1,563.7"
+225,Qualcomm,"10,416.0","1,592.0"
+226,Land O'Lakes,"10,408.5",209.1
+227,Liberty Media,"10,398.0","6,462.0"
+228,Avon Products,"10,382.8",625.8
+229,Southwest Airlines,"10,350.0",99.0
+230,Parker Hannifin,"10,309.0",508.5
+231,Mosaic,"10,298.0","2,350.2"
+232,BJ's Wholesale Club,"10,187.0",132.1
+233,H.J. Heinz,"10,148.1",923.1
+234,Thermo Fisher Scientific,"10,109.7",850.3
+235,Unum Group,"10,091.0",852.6
+236,Genuine Parts,"10,057.5",399.6
+237,Guardian Life Ins. Co. of America,"10,040.9",82.9
+238,Peter Kiewit Sons',"9,985.0",540.0
+239,Progress Energy,"9,885.0",757.0
+240,R.R. Donnelley & Sons,"9,857.4",-27.3
+241,Starbucks,"9,774.6",390.8
+242,Lear,"9,739.6",N.A.
+243,Baker Hughes,"9,664.0",421.0
+244,Xcel Energy,"9,644.3",680.9
+245,Penske Automotive Group,"9,558.1",76.5
+246,Energy Future Holdings,"9,546.0",344.0
+247,Great Atlantic & Pacific Tea,"9,516.2",-139.9
+248,Fifth Third Bancorp,"9,450.0",737.0
+249,State Street Corp.,"9,362.0","-1,881.0"
+250,First Data,"9,313.8","-1,086.4"
+251,Pepco Holdings,"9,259.0",235.0
+252,URS,"9,249.1",269.1
+253,Tenet Healthcare,"9,215.0",187.0
+254,Regions Financial,"9,087.1","-1,031.3"
+255,GameStop,"9,078.0",377.3
+256,Lincoln National,"9,071.8",-484.7
+257,Genworth Financial,"9,069.0",-460.0
+258,XTO Energy,"9,064.0","2,019.0"
+259,CSX,"9,041.0","1,152.0"
+260,Anadarko Petroleum,"9,000.0",-135.0
+261,Devon Energy,"8,960.0","-2,479.0"
+262,Praxair,"8,956.0","1,254.0"
+263,NRG Energy,"8,952.0",942.0
+264,Harrah's Entertainment,"8,907.4",827.6
+265,Automatic Data Processing,"8,867.1","1,332.6"
+266,Principal Financial,"8,849.1",622.7
+267,eBay,"8,727.4","2,389.1"
+268,Assurant,"8,700.5",430.6
+269,Limited Brands,"8,632.5",447.9
+270,Nordstrom,"8,627.0",441.0
+271,Apache,"8,614.8",-284.4
+272,Reynolds American,"8,419.0",962.0
+273,Air Products & Chemicals,"8,381.4",631.3
+274,Bank of New York Mellon Corp.,"8,345.0","-1,084.0"
+275,CenterPoint Energy,"8,281.0",372.0
+276,Williams,"8,255.0",285.0
+277,Smith International,"8,218.6",148.5
+278,Republic Services,"8,199.1",495.0
+279,Boston Scientific,"8,188.0","-1,025.0"
+280,Ashland,"8,106.0",71.0
+280,Sempra Energy,"8,106.0","1,119.0"
+282,Paccar,"8,086.5",111.9
+283,Owens & Minor,"8,037.6",104.7
+284,Whole Foods Market,"8,031.6",146.8
+285,DTE Energy,"8,014.0",532.0
+286,Discover Financial Services,"7,985.7","1,276.2"
+287,Norfolk Southern,"7,969.0","1,034.0"
+288,Ameriprise Financial,"7,946.0",722.0
+289,Crown Holdings,"7,938.0",334.0
+290,Icahn Enterprises,"7,865.0",234.0
+291,Masco,"7,858.0",-183.0
+292,Cablevision Systems,"7,773.3",285.6
+293,Huntsman,"7,763.0",114.0
+294,Synnex,"7,756.3",92.1
+295,Newmont Mining,"7,737.0","1,297.0"
+296,Chesapeake Energy,"7,701.9","-5,830.0"
+297,Eastman Kodak,"7,606.0",-210.0
+298,Aon,"7,595.0",747.0
+299,Campbell Soup,"7,586.0",736.0
+300,PPL,"7,585.0",407.0
+301,C.H. Robinson Worldwide,"7,577.2",360.8
+302,Integrys Energy Group,"7,499.8",-70.9
+303,Quest Diagnostics,"7,455.2",729.1
+304,Western Digital,"7,453.0",470.0
+305,Family Dollar Stores,"7,400.6",291.3
+306,Winn-Dixie Stores,"7,367.0",39.8
+307,Ball,"7,345.3",387.9
+308,Est�e Lauder,"7,323.8",218.4
+309,Shaw Group,"7,279.7",15.0
+310,VF,"7,220.3",461.3
+311,Darden Restaurants,"7,217.5",372.2
+312,Becton Dickinson,"7,216.7","1,231.6"
+313,OfficeMax,"7,212.1",0.7
+314,Bed Bath & Beyond,"7,208.3",425.1
+315,Kinder Morgan,"7,185.2",496.0
+316,Ross Stores,"7,184.2",442.8
+317,Pilgrim's Pride,"7,113.8",-151.6
+318,Hertz Global Holdings,"7,101.5",-126.0
+319,Sherwin-Williams,"7,094.2",435.8
+320,Ameren,"7,090.0",612.0
+321,Reinsurance Group of America,"7,066.8",407.1
+322,Owens-Illinois,"7,066.5",161.8
+323,CarMax,"7,028.3",59.2
+324,Gilead Sciences,"7,011.4","2,635.8"
+325,Precision Castparts,"6,913.8","1,044.5"
+326,Visa,"6,911.0","2,353.0"
+327,Commercial Metals,"6,883.4",20.8
+328,WellCare Health Plans,"6,878.2",39.9
+329,AutoZone,"6,816.8",657.0
+330,Western Refining,"6,807.4",-350.6
+331,Dole Food,"6,782.7",84.1
+332,Charter Communications,"6,755.0",N.A.
+333,Stryker,"6,723.1","1,107.4"
+334,Goodrich,"6,685.6",597.3
+335,Visteon,"6,685.0",128.0
+336,NiSource,"6,652.9",217.7
+337,AGCO,"6,630.4",135.7
+338,Calpine,"6,564.0",149.0
+339,Henry Schein,"6,546.3",311.2
+340,Hormel Foods,"6,533.7",342.8
+341,Affiliated Computer Services,"6,523.2",349.9
+342,Thrivent Financial for Lutherans,"6,514.8",-48.4
+343,Yahoo,"6,460.3",598.0
+344,American Family Insurance Group,"6,453.4",256.9
+345,Sonic Automotive,"6,349.7",31.5
+346,Peabody Energy,"6,313.9",448.2
+347,Omnicare,"6,242.7",211.9
+348,Dillard's,"6,226.6",68.5
+349,W.W. Grainger,"6,222.0",430.5
+350,CMS Energy,"6,212.0",229.0
+351,Fortune Brands,"6,205.4",242.8
+352,AECOM Technology,"6,192.4",189.7
+353,Symantec,"6,149.9","-6,728.9"
+354,SLM,"6,144.7",324.1
+355,DaVita,"6,108.8",422.7
+356,KeyCorp,"6,068.0","-1,335.0"
+357,MeadWestvaco,"6,049.0",225.0
+358,Interpublic Group,"6,027.6",121.3
+359,Virgin Media,"6,013.6",-559.8
+360,MGM Mirage,"5,978.6","-1,291.7"
+361,First American Corp.,"5,972.8",199.7
+362,Avery Dennison,"5,952.7",-746.7
+363,McGraw-Hill,"5,951.8",730.5
+364,Enbridge Energy Partners,"5,905.4",316.6
+365,Ecolab,"5,900.6",417.3
+366,Fidelity National Financial,"5,857.7",222.3
+367,Dover,"5,831.0",356.4
+368,Global Partners,"5,818.4",34.1
+369,UGI,"5,737.8",258.5
+370,Gannett,"5,613.0",355.3
+371,Harris,"5,599.6",37.9
+372,Barnes & Noble,"5,596.3",66.7
+373,Newell Rubbermaid,"5,577.6",285.5
+374,Smurfit-Stone Container,"5,574.0",8.0
+375,Pitney Bowes,"5,569.2",423.4
+376,CC Media Holdings,"5,551.9","-4,034.1"
+377,Emcor Group,"5,547.9",160.8
+378,Dr Pepper Snapple Group,"5,531.0",555.0
+379,Weyerhaeuser,"5,528.0",-545.0
+380,SunGard Data Systems,"5,508.0","-1,118.0"
+381,CH2M Hill,"5,499.3",103.7
+382,Pantry,"5,472.0",59.1
+383,Domtar,"5,465.0",310.0
+384,Clorox,"5,450.0",537.0
+385,Northeast Utilities,"5,439.4",330.0
+386,Oshkosh,"5,433.3","-1,098.8"
+387,Mattel,"5,430.8",528.7
+388,Energy Transfer Equity,"5,417.3",442.5
+389,Advance Auto Parts,"5,412.6",270.4
+390,Advanced Micro Devices,"5,403.0",376.0
+391,Corning,"5,395.0","2,008.0"
+392,Mohawk Industries,"5,344.0",-5.5
+393,PetSmart,"5,336.4",198.3
+394,Reliance Steel & Aluminum,"5,318.1",148.2
+395,Hershey,"5,298.7",436.0
+396,YRC Worldwide,"5,282.8",-622.0
+397,Dollar Tree,"5,231.2",320.5
+398,Dana Holding,"5,228.0",-431.0
+399,Cameron International,"5,223.2",475.5
+400,Nash-Finch,"5,212.7",2.8
+401,Pacific Life,"5,211.0",434.0
+402,Terex,"5,205.0",-398.4
+403,Universal Health Services,"5,202.4",260.4
+404,Amerigroup,"5,188.1",149.3
+405,Sanmina-SCI,"5,177.5",-136.2
+406,Jarden,"5,152.6",128.7
+407,Tutor Perini,"5,152.0",137.1
+408,Mutual of Omaha Insurance,"5,149.6",-17.9
+409,Avis Budget Group,"5,131.0",-47.0
+410,Autoliv,"5,120.7",10.0
+411,MasterCard,"5,098.7","1,462.5"
+412,Mylan,"5,092.8",232.6
+413,Western Union,"5,083.6",848.8
+414,Celanese,"5,082.0",488.0
+415,Eastman Chemical,"5,047.0",136.0
+416,Telephone & Data Systems,"5,020.7",193.9
+417,Polo Ralph Lauren,"5,018.9",406.0
+418,Auto-Owners Insurance,"5,017.1",327.1
+419,Core-Mark Holding,"5,015.6",47.3
+420,Western & Southern Financial Group,"5,014.4",14.3
+421,Applied Materials,"5,013.6",-305.3
+422,Anixter International,"4,982.4",-29.3
+423,CenturyTel,"4,974.2",647.2
+424,Atmos Energy,"4,969.1",191.0
+425,Universal American,"4,963.5",140.3
+426,Ryder System,"4,957.6",61.9
+427,SPX,"4,935.9",31.7
+428,Foot Locker,"4,854.0",48.0
+429,O'Reilly Automotive,"4,847.1",307.5
+430,Harley-Davidson,"4,838.6",-55.1
+431,Holly,"4,834.3",19.6
+432,Micron Technology,"4,803.0","-1,835.0"
+432,Owens Corning,"4,803.0",64.0
+434,EOG Resources,"4,787.0",546.6
+435,Black & Decker,"4,775.1",132.5
+436,Big Lots,"4,726.8",200.4
+437,Spectra Energy,"4,725.0",848.0
+438,Starwood Hotels & Resorts,"4,712.0",73.0
+439,United Stationers,"4,710.3",101.0
+440,TravelCenters of America,"4,699.8",-89.9
+441,BlackRock,"4,699.3",875.1
+442,Laboratory Corp. of America,"4,694.7",543.3
+443,Health Management Associates,"4,687.3",138.2
+444,NYSE Euronext,"4,687.0",219.0
+445,St. Jude Medical,"4,681.3",777.2
+446,Tenneco,"4,649.0",-73.0
+447,El Paso,"4,631.0",-539.0
+448,Wesco International,"4,624.0",105.1
+449,Consol Energy,"4,621.9",539.7
+450,ArvinMeritor,"4,617.0","-1,212.0"
+451,NCR,"4,612.0",-33.0
+452,Unisys,"4,597.7",189.3
+453,Lubrizol,"4,586.3",500.8
+454,Alliant Techsystems,"4,583.2",155.1
+455,Washington Post,"4,569.7",92.8
+456,Las Vegas Sands,"4,563.1",-354.5
+457,Group 1 Automotive,"4,525.7",34.8
+458,Genzyme,"4,515.5",422.3
+459,Allergan,"4,503.6",621.3
+460,Broadcom,"4,490.3",65.3
+461,Agilent Technologies,"4,481.0",-31.0
+462,Rockwell Collins,"4,470.0",594.0
+463,W.R. Berkley,"4,431.2",309.1
+464,PepsiAmericas,"4,421.3",181.2
+465,Charles Schwab,"4,414.0",787.0
+466,Dick's Sporting Goods,"4,412.8",135.4
+467,FMC Technologies,"4,405.4",361.8
+468,NII Holdings,"4,397.6",381.5
+469,General Cable,"4,385.2",108.7
+470,Graybar Electric,"4,377.9",37.3
+471,Biogen Idec,"4,377.3",970.1
+472,AbitibiBowater,"4,366.0","-1,553.0"
+473,Flowserve,"4,365.3",427.9
+474,Airgas,"4,349.5",261.1
+475,Conseco,"4,341.4",85.7
+476,Rockwell Automation,"4,332.5",220.7
+477,Kindred Healthcare,"4,326.3",40.1
+478,American Financial Group,"4,320.6",519.3
+479,Kelly Services,"4,314.8",-104.5
+480,Spectrum Group International,"4,293.3",7.1
+481,RadioShack,"4,276.0",205.0
+482,CA,"4,271.0",694.0
+483,Con-way,"4,269.2",-107.7
+484,Erie Insurance Group,"4,255.4",108.5
+485,Casey's General Stores,"4,251.5",85.7
+486,Centene,"4,248.0",83.7
+487,Sealed Air,"4,242.8",244.3
+488,Frontier Oil,"4,237.2",-83.8
+489,Scana,"4,237.0",348.0
+490,Live Nation Entertainment,"4,232.0",-60.2
+491,Fiserv,"4,224.0",476.0
+492,Host Hotels & Resorts,"4,216.0",-252.0
+493,H&R Block,"4,213.4",485.7
+494,Electronic Arts,"4,212.0","-1,088.0"
+495,Franklin Resources,"4,194.1",896.8
+496,Wisconsin Energy,"4,193.2",382.4
+497,Northern Trust Corp.,"4,193.1",864.2
+498,MDU Resources Group,"4,176.5",-123.3
+499,CB Richard Ellis Group,"4,165.8",33.3
+500,Blockbuster,"4,161.8",-558.2
