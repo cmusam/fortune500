@@ -43,9 +43,9 @@ Getting data for 2015-2018 is slightly more complicated. Opening http://fortune.
 7. Finally, use the Python `json` package to parse the JSON files, and build the CSV files.
 
 Data source:
-http://fortune.com/fortune500/2015/list
-http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/0/100
-http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/100/100
-http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/200/100
-http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/300/100
-http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/400/100
+- homepage for 2015: http://fortune.com/fortune500/2015/list
+- 1-100: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/0/100
+- 101-200: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/100/100
+- 201-300: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/200/100
+- 301-400: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/300/100
+- 401-500: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/400/100
