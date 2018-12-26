@@ -23,6 +23,14 @@ urls = [base.format(year, page) for year in range(2006,2013) for page in pages]
 ```
 
 ## 2015-
+How to get data for 2015 is less obvious. Opening http://fortune.com/fortune500/2015/list with Google Chrome, only the top 20 companies are loaded. More rows are only loaded if you scroll down to the bottom of the page.
+
+1. On the webpage, open [Developer Tools](https://developers.google.com/web/tools/chrome-devtools/).
+2. Scroll to the bottom of the page, and the next 30 companies (ranked 21 through 50) will be loaded. 
+3. In the **Network** panel, you can find a request whose type is [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
+4. Right click on the request to reveal link `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/20/30`
+5. After inspecting, we find that `/20/30` means **skip 20 and take 30**, equivalent to getting row 21 through row 50.
+6. It seems this API gives at most 100 rows per call. So, we can access `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/0/100` to get the first 100 companies, and `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/100/100` to get the next 100, and so on.
 
 Data source:
 http://fortune.com/fortune500/2015/list
