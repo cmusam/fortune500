@@ -13,6 +13,7 @@ urls = [base.format(year, page) for year in range(1955,2006) for page in (1,101,
 ```
 
 ## 2006-2012
+The data are scrapped manually from the sources below, because the HTML pages containing 2006-2012 data do not follow a uniform structure.
 
 Data source:
 ```Python3
