@@ -8,39 +8,16 @@ The dataset can be found under the `csv/` directory.
 ## How is this dataset collected?
 The lists are collected from a variety of sources, because I failed to find a single complete dataset that contains all lists from 1955 to 2018. The methods and sources are described below.
 
-## 1955-2005
-HTML sources are downloaded using `urllib`, parsed using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), and saved as CSV. 
+## 2019-
+I'll be manually updating them.
+- 2019: https://fortune.com/fortune500/2019/search/
 
-Data source (given as Python code):
-```Python3
-base = 'https://money.cnn.com/magazines/fortune/fortune500_archive/full/{}/{}.html'
-urls = [base.format(year, page) for year in range(1955,2006) for page in (1,101,201,301,401)]
-```
-
-## 2006-2012
-The data are scrapped manually from the sources below, because the HTML pages containing 2006-2012 data do not follow a uniform structure.
-
-Data source:
-```Python3
-base = 'https://money.cnn.com/magazines/fortune/fortune500/{}/full_list/{}.html'
-pages = ('index', '101_200', '201_300', '301_400', '401_500')
-urls = [base.format(year, page) for year in range(2006,2013) for page in pages]
-```
-
-## 2013-2014
-The data is from [FortuneChina.com](http://www.FortuneChina.com), the official website of Fortune magazine for China.
-
-Data source: 
-```Python3
-url_2013 = 'http://www.fortunechina.com/fortune500/c/2013-05/06/content_154796.htm'
-url_2014 = 'http://www.fortunechina.com/fortune500/c/2014-06/02/content_207496.htm'
-```
 
 ## 2015-2018
-Getting data for 2015-2018 is slightly more complicated. Opening http://fortune.com/fortune500/2015/list with Google Chrome, only the top 20 companies are loaded. More rows are only loaded if you scroll down to the bottom of the page.
+http://fortune.com/fortune500/2015/list only loads the top 20 companies. More rows can be loaded by scrolling down to page bottom.
 
 1. On the webpage, open [Developer Tools](https://developers.google.com/web/tools/chrome-devtools/).
-2. Scroll to the bottom of the page, and the next 30 companies (ranked 21 through 50) will be loaded. 
+2. Scroll to page bottom to load the next 30 companies (ranked 21 through 50).
 3. In the **Network** panel, you can find a request whose type is [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
 4. Right click on the request to reveal link `http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/20/30`
 5. After inspecting, we find that `/20/30` means **skip 20 and take 30**, equivalent to getting row 21 through row 50.
@@ -55,6 +32,32 @@ Data source:
 - 301-400: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/300/100
 - 401-500: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/400/100
 
-## 2019-
-I'll be manually updating them.
-2019: https://fortune.com/fortune500/2019/search/
+
+## 2013-2014
+The data is from [FortuneChina.com](http://www.FortuneChina.com), the official website of Fortune magazine for China.
+
+Data source: 
+```Python3
+url_2013 = 'http://www.fortunechina.com/fortune500/c/2013-05/06/content_154796.htm'
+url_2014 = 'http://www.fortunechina.com/fortune500/c/2014-06/02/content_207496.htm'
+```
+
+## 2006-2012
+The data are scrapped manually from the sources below, because the HTML pages containing 2006-2012 data do not follow a uniform structure.
+
+Data source:
+```Python3
+base = 'https://money.cnn.com/magazines/fortune/fortune500/{}/full_list/{}.html'
+pages = ('index', '101_200', '201_300', '301_400', '401_500')
+urls = [base.format(year, page) for year in range(2006,2013) for page in pages]
+```
+
+## 1955-2005
+HTML sources are downloaded using `urllib`, parsed using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), and saved as CSV. 
+
+Data source:
+```Python3
+base = 'https://money.cnn.com/magazines/fortune/fortune500_archive/full/{}/{}.html'
+urls = [base.format(year, page) for year in range(1955,2006) for page in (1,101,201,301,401)]
+```
+
