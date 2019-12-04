@@ -1,12 +1,12 @@
 # Fortune 500 company lists (1955-2019)
 
 ## Usage
-The dataset can be found under the `csv/` directory.
+The dataset is under the `csv/` directory.
 
 > The Fortune 500 is an annual list compiled and published by [Fortune](https://en.wikipedia.org/wiki/Fortune_(magazine)) magazine that ranks 500 of the largest United States corporations by total revenue for their respective fiscal years.
 
 ## How is this dataset collected?
-The lists are collected from a variety of sources, because I failed to find a single complete dataset that contains all lists from 1955 to 2018. The methods and sources are described below.
+The data come from a variety of sources, as I failed to find a single complete dataset that contains all lists from 1955 to 2018.
 
 ## 2019-
 I'll be manually updating them.
@@ -34,7 +34,7 @@ Data source:
 
 
 ## 2013-2014
-The data is from [FortuneChina.com](http://www.FortuneChina.com), the official website of Fortune magazine for China.
+The data are from [FortuneChina.com](http://www.FortuneChina.com), the official website of Fortune magazine for China.
 
 Data source: 
 ```Python3
