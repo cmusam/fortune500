@@ -1,4 +1,4 @@
-# Fortune 500 company lists (1955-2018)
+# Fortune 500 company lists (1955-2019)
 
 ## Usage
 The dataset can be found under the `csv/` directory.
@@ -54,3 +54,7 @@ Data source:
 - 201-300: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/200/100
 - 301-400: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/300/100
 - 401-500: http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/400/100
+
+## 2019-
+I'll be manually updating them.
+2019: https://fortune.com/fortune500/2019/search/
