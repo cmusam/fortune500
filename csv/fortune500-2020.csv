@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions)
+1,Walmart,"$523,964","$14,881"
+2,Sinopec Group,"$407,009","$6,793"
+3,State Grid,"$383,906","$7,970"
+4,China National Petroleum,"$379,130","$4,443"
+5,Royal Dutch Shell,"$352,106","$15,842"
+6,Saudi Aramco,"$329,784","$88,211"
+7,Volkswagen,"$282,760","$15,542"
+8,BP,"$282,616","$4,026"
+9,Amazon.com,"$280,522","$11,588"
+10,Toyota Motor,"$275,288","$19,096"
+11,Exxon Mobil,"$264,938","$14,340"
+12,Apple,"$260,174","$55,256"
+13,CVS Health,"$256,776","$6,634"
+14,Berkshire Hathaway,"$254,616","$81,417"
+15,UnitedHealth Group,"$242,155","$13,839"
+16,McKesson,"$231,051",$900
+17,Glencore,"$215,111",-$404
+18,China State Construction Engineering,"$205,839","$3,333"
+19,Samsung Electronics,"$197,705","$18,453"
+20,Daimler,"$193,346","$2,661"
+21,Ping An Insurance,"$184,280","$21,627"
+22,AT&T,"$181,193","$13,903"
+23,AmerisourceBergen,"$179,589",$855
+24,Industrial & Commercial Bank of China,"$177,069","$45,195"
+25,Total,"$176,249","$11,267"
+26,Hon Hai Precision Industry,"$172,869","$3,731"
+27,Trafigura Group,"$171,474",$872
+28,EXOR Group,"$162,754","$3,417"
+29,Alphabet,"$161,857","$34,343"
+30,China Construction Bank,"$158,884","$38,610"
+31,Ford Motor,"$155,900",$47
+32,Cigna,"$153,566","$5,104"
+33,Costco Wholesale,"$152,703","$3,659"
+34,AXA,"$148,984","$4,317"
+35,Agricultural Bank of China,"$147,313","$30,701"
+36,Chevron,"$146,516","$2,924"
+37,Cardinal Health,"$145,534","$1,363"
+38,JPMorgan Chase,"$142,422","$36,431"
+39,Honda Motor,"$137,332","$4,192"
+40,General Motors,"$137,237","$6,732"
+41,Walgreens Boots Alliance,"$136,866","$3,982"
+42,Mitsubishi,"$135,940","$4,924"
+43,Bank of China,"$135,091","$27,127"
+44,Verizon Communications,"$131,868","$19,265"
+45,China Life Insurance,"$131,244","$4,660"
+46,Allianz,"$130,359","$8,858"
+47,Microsoft,"$125,843","$39,240"
+48,Marathon Petroleum,"$124,813","$2,637"
+49,Huawei Investment & Holding,"$124,316","$9,062"
+50,China Railway Engineering Group,"$123,324","$1,535"
+51,Kroger,"$122,286","$1,659"
+52,SAIC Motor,"$122,071","$3,706"
+53,Fannie Mae,"$120,304","$14,160"
+54,China Railway Construction,"$120,302","$1,359"
+55,Gazprom,"$118,009","$18,593"
+56,BMW Group,"$116,638","$5,501"
+57,Lukoil,"$114,621","$9,895"
+58,Bank of America,"$113,589","$27,430"
+59,Home Depot,"$110,225","$11,242"
+60,Japan Post Holdings,"$109,915","$4,449"
+61,Phillips 66,"$109,559","$3,076"
+62,Nippon Telegraph and Telephone,"$109,448","$7,867"
+63,Comcast,"$108,942","$13,057"
+64,China National Offshore Oil,"$108,687","$6,957"
+65,China Mobile Communications,"$108,527","$12,145"
+66,Assicurazioni Generali,"$105,921","$2,988"
+67,Crédit Agricole,"$104,972","$5,422"
+68,Anthem,"$104,213","$4,807"
+69,Wells Fargo,"$103,915","$19,549"
+70,Citigroup,"$103,449","$19,401"
+71,Valero Energy,"$102,729","$2,422"
+72,Itochu,"$100,522","$4,611"
+73,HSBC Holdings,"$98,673","$7,383"
+74,Siemens,"$97,937","$5,835"
+75,Pacific Construction Group,"$97,536","$3,455"
+76,Rosneft Oil,"$96,313","$10,944"
+77,General Electric,"$95,214","-$4,979"
+78,China Communications Construction,"$95,096","$1,333"
+79,China Resources,"$94,758","$3,572"
+80,Prudential,"$93,736",$783
+81,Dell Technologies,"$92,154","$4,616"
+82,Nestlé,"$92,107","$12,546"
+83,Nissan Motor,"$90,863","-$6,174"
+84,Hyundai Motor,"$90,740","$2,557"
+85,Legal & General Group,"$90,615","$2,340"
+86,Deutsche Telekom,"$90,135","$4,328"
+87,Enel,"$89,907","$2,433"
+88,Aviva,"$89,647","$3,251"
+89,China FAW Group,"$89,417","$2,848"
+90,China Post Group,"$89,347","$4,441"
+91,Amer International Group,"$88,862","$1,807"
+92,China Minmetals,"$88,357",$230
+93,Banco Santander,"$88,257","$7,292"
+94,SoftBank Group,"$87,440","-$8,844"
+95,Bosch Group,"$86,990","$1,781"
+96,Reliance Industries,"$86,270","$5,625"
+97,SK Holdings,"$86,163",$616
+98,Carrefour,"$85,905","$1,264"
+99,BNP Paribas,"$85,058","$9,148"
+100,Dongfeng Motor,"$84,049","$1,328"
+101,Peugeot,"$83,643","$3,583"
+102,JD.com,"$83,505","$1,764"
+103,Tesco,"$82,700","$1,240"
+104,Johnson & Johnson,"$82,059","$15,119"
+105,China Southern Power Grid,"$81,978","$1,833"
+106,Hitachi,"$80,639",$806
+107,Hengli Group,"$80,588","$2,077"
+108,China Energy Investment,"$80,498","$4,264"
+109,Sinochem Group,"$80,376",$473
+110,Electricité de France,"$80,278","$5,770"
+111,China Baowu Steel Group,"$79,932","$2,901"
+112,People's Insurance Co. of China,"$79,788","$3,204"
+113,ENI,"$79,513",$166
+114,State Farm Insurance,"$79,395","$5,593"
+115,AEON,"$78,930",$246
+116,Airbus,"$78,883","-$1,524"
+117,Target,"$78,112","$3,281"
+118,International Business Machines,"$77,147","$9,431"
+119,Raytheon Technologies,"$77,046","$5,537"
+120,Petrobras,"$76,589","$10,151"
+121,Boeing,"$76,559",-$636
+122,Sony,"$75,972","$5,355"
+123,ENEOS Holdings,"$75,897","-$1,729"
+124,Aegon,"$75,344","$1,387"
+125,Freddie Mac,"$75,125","$7,214"
+126,CITIC Group,"$75,115","$3,647"
+127,Centene,"$74,639","$1,321"
+128,Royal Ahold Delhaize,"$74,162","$1,977"
+129,United Parcel Service,"$74,094","$4,440"
+130,Nippon Life Insurance,"$74,048","$1,767"
+131,Uniper,"$73,652",$683
+132,Alibaba Group Holding,"$73,166","$21,450"
+133,Pemex,"$72,820","-$18,039"
+134,Beijing Automotive Group,"$72,554",$747
+135,Munich Re Group,"$72,537","$3,049"
+136,COFCO,"$72,149",$414
+137,Lowe's,"$72,148","$4,281"
+138,Intel,"$71,965","$21,048"
+139,Zurich Insurance Group,"$71,792","$4,147"
+140,PTT,"$71,502","$2,994"
+141,U.S. Postal Service,"$71,154","-$8,813"
+142,Deutsche Post DHL Group,"$70,895","$2,936"
+143,BASF,"$70,723","$9,425"
+144,Facebook,"$70,697","$18,485"
+145,Sinopharm,"$70,690",$912
+146,ArcelorMittal,"$70,615","-$2,454"
+147,Country Garden Holdings,"$70,335","$5,725"
+148,FedEx,"$69,693",$540
+149,MetLife,"$69,620","$5,899"
+150,Walt Disney,"$69,570","$11,054"
+151,Indian Oil,"$69,246",-$126
+152,China Evergrande Group,"$69,127","$2,501"
+153,Panasonic,"$68,897","$2,076"
+154,China North Industries Group,"$68,714","$1,284"
+155,Brookfield Asset Management,"$67,826","$2,807"
+156,Procter & Gamble,"$67,684","$3,897"
+157,PowerChina,"$67,371",$773
+158,China Telecommunications,"$67,365","$1,803"
+159,Engie,"$67,220","$1,101"
+160,PepsiCo,"$67,161","$7,314"
+161,Mitsubishi UFJ Financial Group,"$67,135","$4,858"
+162,Bank of Communications,"$66,564","$11,186"
+163,Aviation Industry Corp. of China,"$65,909",$578
+164,ChemChina,"$65,767","-$1,251"
+165,Dai-ichi Life Holdings,"$65,434",$298
+166,Humana,"$64,888","$2,707"
+167,Prudential Financial,"$64,807","$4,186"
+168,Archer Daniels Midland,"$64,656","$1,379"
+169,Equinor,"$64,357","$1,843"
+170,Lloyds Banking Group,"$64,297","$3,733"
+171,Roche Group,"$63,434","$13,430"
+172,Mitsui,"$63,327","$3,601"
+173,Marubeni,"$62,799","-$1,816"
+174,Albertsons,"$62,455",$466
+175,Renault,"$62,160",-$158
+176,Greenland Holding Group,"$61,965","$2,134"
+177,Toyota Tsusho,"$61,570","$1,247"
+178,Seven & I Holdings,"$60,952","$2,002"
+179,Sysco,"$60,114","$1,674"
+180,Christian Dior,"$60,071","$3,288"
+181,Manulife Financial,"$59,969","$4,222"
+182,Lockheed Martin,"$59,812","$6,230"
+183,Alimentation Couche-Tard,"$59,118","$1,834"
+184,HP,"$58,756","$3,152"
+185,Unilever,"$58,179","$6,296"
+186,Petronas,"$58,027","$7,975"
+187,China National Building Material Group,"$57,626",-$105
+188,Tokyo Electric Power,"$57,407",$466
+189,China Merchants Bank,"$57,252","$13,443"
+190,Oil & Natural Gas,"$57,171","$1,538"
+191,China Poly Group,"$57,147","$2,031"
+192,Société Générale,"$56,852","$3,635"
+193,China Pacific Insurance (Group),"$55,800","$4,016"
+194,POSCO,"$55,592","$1,600"
+195,Vinci,"$54,788","$3,649"
+196,Auchan Holding,"$54,672","-$1,638"
+197,Tencent Holdings,"$54,613","$13,507"
+198,Nippon Steel Corporation,"$54,465","-$3,969"
+199,CNP Assurances,"$54,365","$1,580"
+200,Energy Transfer,"$54,213","$3,592"
+201,Telefónica,"$54,197","$1,278"
+202,Goldman Sachs Group,"$53,922","$8,466"
+203,Morgan Stanley,"$53,823","$9,042"
+204,Caterpillar,"$53,800","$6,093"
+205,Anheuser-Busch InBev,"$53,723","$9,171"
+206,Guangzhou Automobile Industry Group,"$53,662",$565
+207,LG Electronics,"$53,464",$27
+208,China Vanke,"$53,253","$5,627"
+209,América Móvil,"$52,323","$3,518"
+210,Wuchan Zhongda Group,"$51,954",$396
+211,Cisco Systems,"$51,904","$11,621"
+212,Shandong Energy Group,"$51,893",$730
+213,JBS,"$51,859","$1,539"
+214,Bayer,"$51,807","$4,579"
+215,Pfizer,"$51,750","$16,273"
+216,Itaú Unibanco Holding,"$51,728","$6,875"
+217,Aluminum Corp. of China,"$51,649",$273
+218,HBIS Group,"$51,345",-$94
+219,HCA Healthcare,"$51,336","$3,505"
+220,Shanghai Pudong Development Bank,"$51,313","$8,507"
+221,State Bank of India,"$51,091","$2,788"
+222,Industrial Bank,"$50,945","$9,534"
+223,Royal Bank of Canada,"$50,863","$9,678"
+224,Lenovo Group,"$50,716",$665
+225,Novartis,"$50,486","$11,732"
+226,Tokio Marine Holdings,"$50,270","$2,389"
+227,Korea Electric Power,"$50,257","-$2,013"
+228,Vodafone Group,"$49,960","-$1,022"
+229,Kia Motors,"$49,894","$1,567"
+230,Continental,"$49,783","-$1,371"
+231,American International Group,"$49,746","$3,348"
+232,Deutsche Bahn,"$49,729",$747
+233,Swiss Re,"$49,314",$727
+234,Xiamen C&D,"$49,170",$667
+235,China Merchants Group,"$49,126","$5,233"
+236,Idemitsu Kosan,"$48,892",-$211
+237,Sumitomo Mitsui Financial Group,"$48,880","$6,474"
+238,Sumitomo,"$48,746","$1,576"
+239,China Minsheng Banking,"$48,528","$7,790"
+240,Sberbank,"$48,340","$13,060"
+241,KDDI,"$48,171","$5,884"
+242,Groupe BPCE,"$47,911","$3,391"
+243,Zhejiang Geely Holding Group,"$47,886","$1,232"
+244,Saint-Gobain,"$47,650","$1,574"
+245,Repsol,"$47,544","-$4,271"
+246,MS&AD Insurance Group Holdings,"$47,537","$1,316"
+247,Denso,"$47,400",$626
+248,ThyssenKrupp,"$47,358",-$343
+249,Orange,"$47,275","$3,365"
+250,AIA Group,"$47,242","$6,648"
+251,American Express,"$47,020","$6,759"
+252,Delta Air Lines,"$47,007","$4,767"
+253,China Everbright Group,"$46,957","$1,990"
+254,Banco Bilbao Vizcaya Argentaria,"$46,892","$3,931"
+255,E.ON,"$46,861","$1,753"
+256,Merck,"$46,840","$9,843"
+257,American Airlines Group,"$45,768","$1,686"
+258,Charter Communications,"$45,764","$1,668"
+259,Volvo,"$45,690","$3,793"
+260,Woolworths Group,"$45,524","$1,925"
+261,BHP Group,"$45,139","$8,306"
+262,Finatis,"$45,045",-$616
+263,Allstate,"$44,675","$4,847"
+264,China COSCO Shipping,"$44,655","$1,087"
+265,Shaanxi Yanchang Petroleum (Group),"$44,564",$215
+266,China Huaneng Group,"$44,502",$187
+267,Toronto-Dominion Bank,"$44,502","$8,781"
+268,Banco Bradesco,"$44,491","$5,331"
+269,Pegatron,"$44,207",$625
+270,New York Life Insurance,"$44,117","$1,004"
+271,Talanx,"$44,020","$1,033"
+272,Nationwide,"$43,982",$830
+273,Shaanxi Coal & Chemical Industry,"$43,798",$120
+274,ACS,"$43,706","$1,077"
+275,Best Buy,"$43,638","$1,541"
+276,United Airlines Holdings,"$43,259","$3,009"
+277,Hanwha,"$43,258",$77
+278,Liberty Mutual Insurance Group,"$43,228","$1,044"
+279,Accenture,"$43,215","$4,779"
+280,Rio Tinto Group,"$43,165","$8,010"
+281,Sinomach,"$43,122",$452
+282,GlaxoSmithKline,"$43,073","$5,927"
+283,Dow,"$42,951","-$1,359"
+284,Xiamen ITG Holding Group,"$42,790",$42
+285,Wilmar International,"$42,641","$1,293"
+286,Bouygues,"$42,543","$1,325"
+287,Tyson Foods,"$42,405","$2,022"
+288,Banco do Brasil,"$42,180","$4,158"
+289,Sanofi,"$42,119","$3,141"
+290,China United Network Communications,"$42,052",$721
+291,Deutsche Bank,"$41,780","-$6,033"
+292,TJX,"$41,717","$3,272"
+293,UBS Group,"$41,482","$4,304"
+294,Metro,"$41,371",-$142
+295,Yankuang Group,"$41,323",$275
+296,Cedar Holdings Group,"$41,277",$122
+297,Bunge,"$41,140","-$1,280"
+298,XMXYG,"$41,135",$220
+299,M&G,"$41,076","$1,429"
+300,Mitsubishi Electric,"$41,045","$2,040"
+301,Jardine Matheson,"$40,922","$2,838"
+302,ZF Friedrichshafen,"$40,873",$392
+303,Iberdrola,"$40,783","$3,813"
+304,Lufthansa Group,"$40,768","$1,358"
+305,China National Aviation Fuel Group,"$40,487",$569
+306,TIAA,"$40,454","$2,460"
+307,Midea Group,"$40,440","$3,505"
+308,Shandong Weiqiao Pioneering Group,"$40,426",$792
+309,Bharat Petroleum,"$40,410",$431
+310,Intesa Sanpaolo,"$40,359","$4,681"
+311,Daiwa House Industry,"$40,288","$2,149"
+312,Edeka Zentrale,"$39,824",$381
+313,Fresenius,"$39,632","$2,108"
+314,Oracle,"$39,506","$11,083"
+315,Magna International,"$39,431","$1,765"
+316,State Power Investment,"$39,407",$180
+317,General Dynamics,"$39,350","$3,484"
+318,SNCF Group,"$39,308",-$897
+319,Deere,"$39,258","$3,253"
+320,Maersk Group,"$39,198",-$84
+321,DZ Bank,"$39,144","$1,895"
+322,Nike,"$39,117","$4,029"
+323,Progressive,"$39,022","$3,970"
+324,Suning.com Group,"$38,971","$1,425"
+325,Publix Super Markets,"$38,463","$3,005"
+326,Caixa Econômica Federal,"$38,407","$5,339"
+327,Barclays,"$38,337","$4,178"
+328,CK Hutchison Holdings,"$38,166","$5,084"
+329,Tsingshan Holding Group,"$38,012",$826
+330,George Weston,"$37,765",$182
+331,Enbridge,"$37,735","$4,300"
+332,China Aerospace Science & Industry,"$37,604","$1,959"
+333,Vale,"$37,570","-$1,683"
+334,Meiji Yasuda Life Insurance,"$37,466","$1,912"
+335,Coca-Cola,"$37,266","$8,920"
+336,Massachusetts Mutual Life Insurance,"$37,253","$3,701"
+337,Tata Motors,"$37,242","-$1,703"
+338,Phoenix Group Holdings,"$37,215",$109
+339,Mitsubishi Heavy Industries,"$37,172",$801
+340,ABB,"$37,015","$1,439"
+341,Tech Data,"$36,998",$375
+342,ING Group,"$36,990","$4,369"
+343,Jiangxi Copper,"$36,980",$170
+344,J. Sainsbury,"$36,831",$193
+345,World Fuel Services,"$36,819",$179
+346,Power Corp. of Canada,"$36,810",$874
+347,Honeywell International,"$36,709","$6,143"
+348,ConocoPhillips,"$36,670","$7,189"
+349,Mizuho Financial Group,"$36,669","$4,126"
+350,Poste Italiane,"$36,667","$1,502"
+351,Jiangsu Shagang Group,"$36,488",$718
+352,China Aerospace Science & Technology,"$36,209","$2,628"
+353,China Energy Engineering Group,"$36,111",$395
+354,Yango Longking Group,"$35,909",$614
+355,USAA,"$35,617","$4,006"
+356,Fujitsu,"$35,483","$1,472"
+357,Credit Suisse Group,"$35,473","$3,402"
+358,Bank of Nova Scotia,"$35,101","$6,314"
+359,Aisin Seiki,"$34,810",$221
+360,LyondellBasell Industries,"$34,727","$3,390"
+361,CRRC Group,"$34,704",$523
+362,Taiwan Semiconductor Manufacturing,"$34,620","$11,452"
+363,Sompo Holdings,"$34,587","$1,127"
+364,Exelon,"$34,438","$2,936"
+365,JFE Holdings,"$34,305","-$1,819"
+366,Chubb,"$34,186","$4,454"
+367,Anhui Conch Group,"$33,916","$1,773"
+368,Northrop Grumman,"$33,841","$2,248"
+369,Jinchuan Group,"$33,824",$298
+370,China Huadian,"$33,808",$310
+371,Louis Dreyfus,"$33,786",$230
+372,Capital One Financial,"$33,766","$5,546"
+373,Plains GP Holdings,"$33,669",$331
+374,Cathay Financial Holding,"$33,511","$2,031"
+375,L'Oréal,"$33,436","$4,197"
+376,Mitsubishi Chemical Holdings,"$33,418",$497
+377,Quanta Computer,"$33,313",$516
+378,AbbVie,"$33,266","$7,882"
+379,British American Tobacco,"$33,021","$7,279"
+380,Canon,"$32,961","$1,148"
+381,China Electronics Technology Group,"$32,948","$1,743"
+382,Schlumberger,"$32,917","-$10,137"
+383,StoneX,"$32,897",$85
+384,Enterprise Products Partners,"$32,789","$4,591"
+385,Hyundai Mobis,"$32,649","$1,966"
+386,China Electronics,"$32,447",$138
+387,Bridgestone,"$32,340","$2,684"
+388,Northwestern Mutual,"$32,294","$1,268"
+389,3M,"$32,136","$4,570"
+390,Suzuki Motor,"$32,086","$1,235"
+391,Sumitomo Life Insurance,"$32,063",$48
+392,China Taiping Insurance Group,"$31,912",$586
+393,Abbott Laboratories,"$31,904","$3,687"
+394,CHS,"$31,901",$830
+395,Compass Group,"$31,736","$1,416"
+396,Compal Electronics,"$31,723",$225
+397,CRH,"$31,682","$2,159"
+398,Inditex,"$31,584","$4,063"
+399,Travelers,"$31,581","$2,622"
+400,Mazda Motor,"$31,551",$112
+401,Ansteel Group,"$31,469",-$209
+402,Toshiba,"$31,179","-$1,054"
+403,Fubon Financial Holding,"$31,013","$1,893"
+404,SAP,"$30,839","$3,717"
+405,Subaru,"$30,758","$1,404"
+406,Jizhong Energy Group,"$30,666",-$114
+407,Coles Group,"$30,601","$1,026"
+408,Medtronic,"$30,557","$4,631"
+409,CPC,"$30,546","$1,050"
+410,Phoenix Pharma,"$30,509",$6
+411,Air France-KLM Group,"$30,432",$325
+412,Veolia Environnement,"$30,431",$699
+413,Schneider Electric,"$30,397","$2,701"
+414,Takeda Pharmaceutical,"$30,272",$407
+415,CMA CGM,"$30,254",-$229
+416,Commonwealth Bank of Australia,"$29,967","$6,127"
+417,Medipal Holdings,"$29,921",$349
+418,Sun Life Financial,"$29,905","$2,045"
+419,Anglo American,"$29,870","$3,547"
+420,CFE,"$29,869","$2,261"
+421,Philip Morris International,"$29,805","$7,185"
+422,Xiaomi,"$29,795","$1,454"
+423,Shanghai Construction Group,"$29,746",$569
+424,Taikang Insurance Group,"$29,502","$3,212"
+425,Coop Group,"$29,485",$528
+426,KB Financial Group,"$29,470","$2,842"
+427,Suncor Energy,"$29,385","$2,185"
+428,Kansai Electric Power,"$29,288","$1,196"
+429,Shougang Group,"$29,274",$40
+430,Bank of Montreal,"$29,160","$4,333"
+431,Hewlett Packard Enterprise,"$29,135","$1,049"
+432,BT Group,"$29,097","$2,203"
+433,La Poste,"$29,082",$920
+434,China South Industries Group,"$29,063",$988
+435,Haier Smart Home,"$29,060","$1,188"
+436,Gree Electric Appliances,"$29,024","$3,575"
+437,CJ Corp.,"$28,986",$229
+438,PKN ORLEN Group,"$28,977","$1,121"
+439,Johnson Controls International,"$28,969","$5,674"
+440,Centrica,"$28,934","-$1,305"
+441,Arrow Electronics,"$28,917",-$204
+442,Shenzhen Investment Holdings,"$28,855","$1,594"
+443,Xinjiang Guanghui Industry Investment,"$28,711",$90
+444,Linde,"$28,677","$2,285"
+445,Sumitomo Electric Industries,"$28,578",$669
+446,International Airlines Group,"$28,548","$1,920"
+447,GS Caltex,"$28,541",$388
+448,Migros Group,"$28,540",$348
+449,Huaxia Life Insurance,"$28,494",$122
+450,NEC,"$28,469",$920
+451,Safran,"$28,424","$2,739"
+452,Wistron,"$28,416",$220
+453,Danone,"$28,303","$2,159"
+454,Chubu Electric Power,"$28,200","$1,504"
+455,Shenghong Holding Group,"$27,870",$487
+456,TongLing Nonferrous Metals Group,"$27,819",-$65
+457,ViacomCBS,"$27,812","$3,308"
+458,Financière de l'Odet,"$27,806",$136
+459,Shandong Iron & Steel Group,"$27,755",$22
+460,Dollar General,"$27,754","$1,713"
+461,Achmea,"$27,593",$537
+462,Rajesh Exports,"$27,590",$170
+463,Datong Coal Mine Group,"$27,557",-$159
+464,Mapfre Group,"$27,520",$682
+465,China Datang,"$27,464",$427
+466,U.S. Bancorp,"$27,325","$6,914"
+467,Samsung Life Insurance,"$27,291",$839
+468,Hailiang Group,"$27,209",$175
+469,UniCredit Group,"$27,169","$3,775"
+470,East Japan Railway,"$27,102","$1,825"
+471,Koç Holding,"$27,053",$774
+472,Michelin,"$27,013","$1,960"
+473,Shanghai Pharmaceuticals Holding,"$27,005",$591
+474,Heineken Holding,"$26,828","$1,217"
+475,X5 Retail Group,"$26,808",$302
+476,LafargeHolcim,"$26,589","$2,235"
+477,China General Technology,"$26,559",$490
+478,Starbucks,"$26,509","$3,599"
+479,Randstad,"$26,500",$678
+480,Adidas,"$26,459","$2,212"
+481,Samsung C&T,"$26,396",$901
+482,Fomento Económico Mexicano,"$26,319","$1,075"
+483,OMV Group,"$26,259","$1,962"
+484,Adecco Group,"$26,221",$814
+485,Shanxi Coking Coal Group,"$26,179",$212
+486,Henan Energy & Chemical,"$26,163",-$306
+487,Bristol-Myers Squibb,"$26,145","$3,439"
+488,Nokia,"$26,096",$8
+489,Shanxi LuAn Mining Group,"$26,078",$105
+490,Guangxi Investment Group,"$26,060",$78
+491,Westpac Banking,"$26,001","$4,772"
+492,Naturgy Energy Group,"$25,991","$1,568"
+493,China National Nuclear,"$25,975","$1,105"
+494,US Foods Holding,"$25,939",$385
+495,Mondelez International,"$25,868","$3,870"
+496,China National Coal Group,"$25,846",$308
+497,Paccar,"$25,600","$2,388"
+498,Thermo Fisher Scientific,"$25,542","$3,696"
+499,Yangquan Coal Industry Group,"$25,491",-$82
+500,Shanxi Jincheng Anthracite Coal Mining Group,"$25,386",$22
